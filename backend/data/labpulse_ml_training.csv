@@ -1,0 +1,1201 @@
+equipment_type,lab_id,fault_category,fault_severity,cpu_usage,ram_usage,temperature,uptime,previous_fault_count,unresolved_fault_count,days_since_last_maintenance,avg_historical_repair_hours,repeat_failure_within_7_days,repair_duration_hours
+Desktop PC,LAB-C,None,None,32.6,50.8,28.4,95.2,0,0,2,,0,
+Projector,LAB-A,Thermal,Medium,27.7,46.2,45.3,94.1,1,1,85,4.1,1,4.2
+Network Router,LAB-A,Software,Medium,34.6,63.4,39.9,99.8,0,1,21,,1,5.3
+Laptop,LAB-A,None,None,34.6,54.7,59.6,98.0,1,0,2,0.5,0,
+Desktop PC,LAB-B,None,None,35.4,52.8,50.8,96.7,2,0,137,3.8,0,
+Desktop PC,LAB-C,None,None,39.3,87.0,59.9,97.0,3,0,8,1.4,0,
+Desktop PC,LAB-B,None,None,60.3,48.3,68.4,99.3,1,0,44,1.6,0,
+Network Switch,LAB-B,Hardware,Medium,33.4,65.4,32.3,97.5,1,1,18,2.5,0,6.7
+Laptop,LAB-A,Hardware,Low,18.7,57.9,76.3,100.0,1,1,4,1.2,0,4.1
+Network Router,LAB-C,Software,Medium,44.6,66.0,30.0,98.4,1,1,3,0.6,0,2.4
+Desktop PC,LAB-B,None,None,27.7,42.6,49.6,96.3,2,0,7,2.7,0,
+Projector,LAB-B,None,None,5.0,37.5,47.8,97.5,0,0,4,,0,
+Network Switch,LAB-A,Hardware,Low,66.1,49.0,30.0,98.8,3,2,79,4.9,1,6.3
+Desktop PC,LAB-C,None,None,69.2,94.2,34.8,99.7,3,0,37,3.5,0,
+Desktop PC,LAB-B,Software,Medium,34.8,52.9,89.0,92.7,2,1,23,6.0,1,3.5
+Desktop PC,LAB-A,Hardware,Medium,50.6,64.4,67.2,98.3,0,1,30,,1,6.9
+Desktop PC,LAB-A,Thermal,Critical,51.8,47.2,55.8,96.8,2,2,145,0.7,1,14.3
+Desktop PC,LAB-B,None,None,58.7,47.6,57.3,97.9,3,0,133,2.3,0,
+Desktop PC,LAB-B,None,None,69.8,54.0,28.0,100.0,1,0,69,3.1,0,
+Desktop PC,LAB-A,Thermal,Low,25.1,41.9,43.7,100.0,3,2,119,1.6,1,2.9
+Laptop,LAB-C,Hardware,High,5.0,100.0,66.8,98.8,0,1,21,,1,9.0
+Desktop PC,LAB-A,Hardware,Medium,43.8,60.7,59.3,100.0,4,2,26,3.2,1,7.6
+Desktop PC,LAB-B,None,None,57.2,56.8,49.2,97.5,3,0,52,5.8,0,
+Desktop PC,LAB-C,Thermal,Medium,40.7,77.7,60.3,87.7,2,1,54,4.2,1,2.8
+Desktop PC,LAB-B,Hardware,Medium,59.4,58.9,51.7,96.6,0,3,36,,1,5.7
+Network Router,LAB-B,None,None,51.9,71.4,40.3,99.8,1,0,28,6.3,0,
+Desktop PC,LAB-A,None,None,23.6,27.4,43.2,100.0,2,0,235,3.7,0,
+Desktop PC,LAB-A,Software,Low,66.0,65.3,62.2,99.8,1,1,95,2.8,0,1.0
+Laptop,LAB-C,None,None,30.9,63.6,63.2,100.0,3,0,31,7.4,0,
+Desktop PC,LAB-B,None,None,71.2,69.2,56.9,100.0,4,0,71,3.3,0,
+Laptop,LAB-C,Power,High,44.4,37.4,49.7,95.4,3,1,17,8.3,1,9.8
+Desktop PC,LAB-A,None,None,30.1,52.1,40.9,96.9,1,0,6,5.3,0,
+Desktop PC,LAB-A,Software,Medium,5.0,59.3,52.0,95.1,1,1,24,1.9,0,1.8
+Projector,LAB-A,None,None,25.3,39.4,39.3,93.4,1,0,28,2.6,0,
+Projector,LAB-B,None,None,13.8,20.6,78.3,95.7,1,0,2,7.3,0,
+Network Switch,LAB-A,Network,Low,31.0,36.0,54.4,97.3,1,1,93,6.0,0,4.1
+Desktop PC,LAB-C,Power,Low,46.3,60.5,71.0,93.4,2,1,24,4.8,0,3.1
+Desktop PC,LAB-B,None,None,5.0,58.7,77.2,100.0,1,0,48,4.5,0,
+Laptop,LAB-C,Software,Critical,49.6,45.2,63.3,94.6,3,3,4,1.1,1,14.7
+Desktop PC,LAB-A,None,None,55.5,65.1,66.8,100.0,2,0,11,1.3,0,
+Desktop PC,LAB-C,None,None,53.6,44.8,51.6,91.8,3,0,121,3.5,0,
+Desktop PC,LAB-C,None,None,29.7,46.8,44.7,98.5,1,0,52,1.6,0,
+Desktop PC,LAB-C,None,None,26.9,77.4,52.0,98.0,2,0,165,2.5,1,
+Projector,LAB-C,Network,Medium,17.4,31.6,78.2,93.0,2,1,365,2.4,1,4.7
+Desktop PC,LAB-C,Software,Medium,30.5,48.9,33.2,95.1,1,2,26,4.4,1,4.5
+Laptop,LAB-B,Software,Low,34.5,72.5,55.7,98.7,1,2,20,3.6,1,3.2
+Desktop PC,LAB-A,Network,Medium,63.7,52.3,57.5,97.6,5,1,107,5.7,1,3.7
+Desktop PC,LAB-A,None,None,50.8,43.3,28.0,97.5,3,0,362,3.7,0,
+Desktop PC,LAB-C,Hardware,Medium,76.3,73.5,65.5,100.0,0,1,55,,1,5.2
+Desktop PC,LAB-B,Software,Medium,47.0,58.9,43.4,96.9,0,2,87,,1,3.2
+Projector,LAB-C,Hardware,Low,24.9,42.0,62.8,94.7,1,1,84,3.5,0,7.4
+Network Router,LAB-B,Software,Critical,35.0,67.2,33.6,95.8,2,1,24,3.0,1,9.8
+Projector,LAB-A,Network,Medium,15.6,17.8,56.9,95.9,1,1,47,6.2,1,4.4
+Network Switch,LAB-A,None,None,28.2,77.4,51.3,99.7,2,0,98,3.1,0,
+Laptop,LAB-B,Thermal,Low,58.7,32.2,66.5,97.7,1,1,64,1.8,0,2.7
+Projector,LAB-B,Network,Medium,25.4,19.3,40.1,99.8,0,1,2,,1,5.7
+Desktop PC,LAB-A,Hardware,Medium,53.3,37.0,39.8,100.0,1,1,23,4.6,1,6.3
+Desktop PC,LAB-B,None,None,18.8,87.9,39.4,100.0,3,0,9,2.8,0,
+Desktop PC,LAB-A,None,None,37.8,67.1,44.4,97.4,3,0,15,5.3,0,
+Desktop PC,LAB-B,Hardware,Medium,45.9,35.0,62.4,96.2,1,1,130,6.6,1,3.7
+Desktop PC,LAB-A,None,None,40.0,35.1,28.0,97.3,1,0,2,2.6,0,
+Desktop PC,LAB-C,Software,Critical,98.1,70.7,51.7,97.1,0,1,14,,1,14.4
+Network Switch,LAB-A,None,None,35.3,66.6,36.2,100.0,1,0,20,6.5,0,
+Desktop PC,LAB-B,None,None,60.7,69.4,58.1,98.1,0,0,53,,0,
+Desktop PC,LAB-A,None,None,59.8,66.8,47.0,96.0,1,0,42,5.4,0,
+Desktop PC,LAB-A,None,None,47.2,86.0,34.7,92.9,2,0,14,2.1,0,
+Desktop PC,LAB-A,None,None,48.6,56.0,54.4,98.9,1,0,10,1.6,0,
+Network Switch,LAB-B,None,None,31.7,77.9,32.0,98.0,0,0,15,,0,
+Desktop PC,LAB-B,None,None,42.7,22.1,49.5,100.0,2,0,38,1.5,0,
+Projector,LAB-A,None,None,20.2,32.3,44.8,94.0,0,0,17,,0,
+Network Router,LAB-B,None,None,29.4,56.2,60.8,100.0,2,0,162,1.3,0,
+Desktop PC,LAB-C,None,None,20.5,59.9,59.0,100.0,1,0,34,6.1,0,
+Desktop PC,LAB-C,Other,Medium,79.8,34.7,40.6,93.6,2,1,3,2.7,0,3.8
+Network Switch,LAB-A,Software,Medium,31.5,65.6,57.9,99.1,0,2,72,,1,5.6
+Network Router,LAB-B,None,None,30.2,61.8,39.6,100.0,1,0,22,8.0,0,
+Network Router,LAB-A,None,None,10.9,62.2,68.2,99.2,0,0,58,,0,
+Network Router,LAB-A,Thermal,Low,32.1,55.7,46.2,100.0,1,2,18,1.9,1,4.7
+Desktop PC,LAB-C,None,None,5.0,85.7,32.1,97.1,2,0,47,2.2,0,
+Desktop PC,LAB-A,Software,Critical,35.6,66.8,29.6,99.6,0,1,81,,1,9.1
+Desktop PC,LAB-B,Network,High,89.5,27.7,54.7,95.7,1,1,145,4.2,1,6.3
+Network Switch,LAB-B,None,None,41.4,60.2,41.6,99.9,2,0,17,7.8,0,
+Laptop,LAB-B,None,None,84.7,51.2,62.1,93.5,1,0,22,2.1,0,
+Desktop PC,LAB-B,None,None,24.0,64.4,72.8,99.2,1,0,34,5.0,0,
+Desktop PC,LAB-A,None,None,38.1,55.0,34.5,100.0,2,0,144,3.0,0,
+Desktop PC,LAB-A,None,None,64.4,46.0,45.4,98.9,0,0,127,,0,
+Desktop PC,LAB-B,None,None,35.4,53.7,81.4,97.1,3,0,5,4.3,0,
+Network Router,LAB-A,Network,Medium,29.6,52.2,55.4,98.9,4,2,8,1.7,1,8.0
+Laptop,LAB-A,None,None,30.7,81.4,71.9,95.9,1,0,38,4.7,0,
+Network Switch,LAB-A,None,None,7.0,72.1,41.2,100.0,2,0,6,2.5,0,
+Desktop PC,LAB-A,Network,High,5.0,72.9,35.0,100.0,0,3,23,,1,8.9
+Desktop PC,LAB-A,None,None,45.3,35.9,46.3,100.0,2,0,9,2.2,0,
+Network Router,LAB-A,None,None,36.6,67.0,67.8,96.9,4,0,56,3.0,0,
+Network Router,LAB-B,None,None,59.3,61.3,39.0,97.2,3,0,164,4.4,0,
+Laptop,LAB-B,Network,Medium,40.8,73.4,50.2,100.0,1,1,315,2.7,1,5.6
+Network Router,LAB-C,Power,Medium,13.2,59.9,35.5,99.7,3,1,26,2.2,1,5.2
+Desktop PC,LAB-A,None,None,64.5,46.6,28.0,98.7,1,0,50,2.8,0,
+Desktop PC,LAB-A,None,None,54.6,63.1,69.3,94.3,1,0,107,2.7,0,
+Desktop PC,LAB-A,None,None,60.0,78.9,28.0,99.1,1,0,7,4.2,0,
+Desktop PC,LAB-B,None,None,33.9,53.4,56.9,96.3,1,0,64,2.3,0,
+Desktop PC,LAB-B,None,None,30.1,55.7,36.8,94.2,2,0,29,2.3,0,
+Desktop PC,LAB-A,Hardware,Medium,59.9,32.0,61.3,99.6,0,1,13,,0,5.5
+Laptop,LAB-C,Network,Medium,7.0,41.4,68.7,94.6,2,1,28,1.7,1,3.8
+Desktop PC,LAB-A,None,None,34.8,64.2,63.0,97.1,1,0,4,4.4,0,
+Desktop PC,LAB-B,None,None,31.9,83.4,76.3,100.0,2,0,65,3.3,0,
+Projector,LAB-B,Power,Medium,20.7,21.9,51.7,98.6,0,1,16,,1,8.5
+Desktop PC,LAB-C,None,None,54.2,83.0,61.1,92.7,0,0,21,,0,
+Desktop PC,LAB-B,None,None,68.1,35.0,46.6,98.9,0,0,7,,0,
+Network Router,LAB-C,None,None,64.9,95.0,54.1,98.9,1,0,110,6.2,0,
+Desktop PC,LAB-A,None,None,56.8,72.8,47.5,100.0,1,0,37,5.7,0,
+Desktop PC,LAB-C,None,None,50.1,65.0,61.3,99.5,2,0,47,3.5,0,
+Desktop PC,LAB-A,Network,High,63.5,42.7,44.2,94.1,1,1,46,2.8,0,5.3
+Desktop PC,LAB-C,Network,Medium,54.7,70.6,58.4,100.0,1,1,29,3.1,1,3.7
+Projector,LAB-B,None,None,20.0,36.7,47.5,95.0,3,0,12,2.0,0,
+Network Switch,LAB-C,None,None,45.4,70.2,45.1,99.1,2,0,75,1.7,0,
+Laptop,LAB-B,Hardware,Low,11.6,47.9,64.5,100.0,1,1,7,1.6,0,3.7
+Network Switch,LAB-B,None,None,42.5,60.6,48.1,98.2,1,0,6,2.7,0,
+Network Switch,LAB-B,Hardware,Critical,45.5,65.1,52.9,98.4,3,1,68,0.5,1,11.8
+Desktop PC,LAB-B,None,None,5.0,76.9,45.3,95.0,2,0,13,7.6,0,
+Network Switch,LAB-A,None,None,45.4,55.3,58.6,100.0,1,0,20,8.9,0,
+Desktop PC,LAB-A,None,None,60.0,27.7,69.0,98.9,2,0,35,1.4,0,
+Network Switch,LAB-A,Thermal,Critical,29.5,61.7,30.2,99.8,2,2,33,8.8,1,15.9
+Network Switch,LAB-A,None,None,19.6,43.8,32.8,100.0,1,0,68,1.4,0,
+Desktop PC,LAB-C,None,None,31.2,85.7,44.5,92.0,2,0,54,3.1,0,
+Desktop PC,LAB-A,None,None,20.4,79.7,49.8,96.1,0,0,57,,0,
+Desktop PC,LAB-C,Thermal,Low,48.5,65.0,67.6,100.0,2,1,69,3.9,0,2.4
+Desktop PC,LAB-A,Power,Low,37.1,28.5,46.2,98.9,0,1,19,,0,4.3
+Network Switch,LAB-A,Network,High,20.5,48.5,51.4,99.1,1,3,21,3.2,1,8.2
+Network Switch,LAB-C,Network,Low,35.5,50.9,45.7,97.8,2,1,32,2.1,0,3.5
+Desktop PC,LAB-B,None,None,64.6,75.7,28.0,94.7,4,0,20,2.0,1,
+Desktop PC,LAB-B,None,None,12.1,42.0,50.8,92.9,1,0,231,5.0,1,
+Desktop PC,LAB-B,None,None,24.7,34.9,54.9,98.2,0,0,93,,0,
+Desktop PC,LAB-B,None,None,29.1,58.5,44.3,97.0,1,0,10,6.3,0,
+Desktop PC,LAB-A,Hardware,High,81.8,81.8,33.8,100.0,2,2,2,0.7,1,7.3
+Desktop PC,LAB-C,Hardware,Medium,62.9,32.0,63.5,100.0,2,1,2,3.6,0,5.8
+Projector,LAB-C,None,None,11.0,20.8,81.3,97.6,1,0,15,4.4,0,
+Desktop PC,LAB-B,Power,Low,57.1,61.8,57.5,93.4,0,1,7,,0,3.0
+Desktop PC,LAB-A,Network,Medium,68.0,78.4,48.8,97.8,1,1,42,3.4,0,3.8
+Network Router,LAB-B,None,None,12.0,66.2,53.7,99.1,0,0,107,,0,
+Desktop PC,LAB-A,None,None,69.7,48.3,59.9,94.4,2,0,73,1.1,0,
+Projector,LAB-A,None,None,19.8,28.3,68.6,95.0,1,0,13,4.2,0,
+Projector,LAB-A,None,None,18.9,38.3,58.0,90.1,1,0,28,5.8,0,
+Desktop PC,LAB-B,Power,Low,83.5,82.6,33.9,100.0,2,1,39,1.7,0,4.0
+Desktop PC,LAB-C,None,None,33.9,60.3,56.1,97.2,1,0,91,2.1,0,
+Desktop PC,LAB-B,None,None,27.8,41.2,39.2,95.1,3,0,100,3.5,0,
+Desktop PC,LAB-B,Hardware,Medium,43.5,40.7,61.5,100.0,2,1,132,2.9,1,4.4
+Desktop PC,LAB-B,None,None,32.2,59.8,59.0,99.7,1,0,39,2.1,0,
+Laptop,LAB-A,None,None,46.7,69.9,58.8,93.7,3,0,65,1.3,0,
+Desktop PC,LAB-A,Software,High,64.1,72.7,41.3,98.1,0,1,7,,1,5.9
+Desktop PC,LAB-C,None,None,60.0,50.8,67.0,100.0,2,0,46,2.2,0,
+Desktop PC,LAB-A,None,None,27.7,27.4,56.3,100.0,2,0,16,0.5,0,
+Projector,LAB-C,Software,Medium,18.2,44.5,43.6,99.3,1,1,31,4.5,0,3.4
+Desktop PC,LAB-B,None,None,31.7,89.4,79.9,95.3,2,0,55,1.8,0,
+Desktop PC,LAB-B,Other,Medium,32.9,72.2,46.6,97.8,3,1,16,4.9,1,3.6
+Desktop PC,LAB-B,None,None,45.6,16.6,51.8,95.6,2,0,3,2.6,0,
+Projector,LAB-B,None,None,16.1,44.4,44.9,99.8,3,0,2,3.3,0,
+Desktop PC,LAB-C,None,None,38.9,49.4,63.1,99.2,1,0,2,0.9,0,
+Laptop,LAB-C,None,None,57.6,74.4,47.4,95.9,1,0,2,4.7,0,
+Network Router,LAB-B,Hardware,Low,18.7,50.1,77.5,100.0,0,3,6,,1,5.0
+Desktop PC,LAB-A,Software,Medium,15.3,28.6,58.7,99.9,1,1,15,12.0,1,2.2
+Network Router,LAB-B,Software,Medium,43.2,56.9,46.7,99.7,1,1,14,2.3,0,3.5
+Desktop PC,LAB-C,Hardware,Critical,46.9,10.6,48.8,95.0,1,1,238,3.3,1,18.4
+Laptop,LAB-A,None,None,48.9,100.0,57.1,96.9,2,0,20,3.6,0,
+Laptop,LAB-B,Power,Medium,65.3,64.7,57.9,100.0,2,1,7,1.1,0,5.5
+Desktop PC,LAB-B,Hardware,Medium,90.2,32.4,58.6,94.8,0,1,43,,0,7.9
+Desktop PC,LAB-B,Software,Low,57.2,36.6,46.2,97.0,3,1,107,1.4,0,0.8
+Network Switch,LAB-A,Thermal,Medium,49.6,71.0,35.5,99.3,0,1,62,,1,5.1
+Desktop PC,LAB-B,Software,Critical,29.4,29.8,49.0,96.9,0,1,19,,1,13.4
+Desktop PC,LAB-C,None,None,98.4,63.7,32.7,96.0,1,0,45,4.3,0,
+Desktop PC,LAB-A,Software,Critical,67.5,96.8,29.8,91.4,0,1,69,,1,10.2
+Laptop,LAB-A,None,None,86.2,62.8,39.8,99.9,4,0,72,1.7,0,
+Laptop,LAB-C,None,None,5.0,55.1,56.6,100.0,3,0,60,2.6,0,
+Desktop PC,LAB-A,Hardware,Low,22.7,56.7,39.0,98.9,5,1,113,3.3,1,2.9
+Desktop PC,LAB-C,None,None,25.3,46.8,38.1,100.0,0,0,112,,0,
+Desktop PC,LAB-B,None,None,63.9,50.3,52.5,92.9,3,0,48,4.4,0,
+Laptop,LAB-A,None,None,38.4,54.0,88.7,94.1,2,0,31,2.7,0,
+Desktop PC,LAB-C,Thermal,Medium,77.2,74.9,55.9,100.0,2,2,56,2.7,1,6.3
+Laptop,LAB-B,None,None,53.2,62.8,51.3,100.0,2,0,94,10.9,0,
+Desktop PC,LAB-B,Network,Medium,69.1,42.5,33.5,97.3,0,1,2,,0,3.7
+Projector,LAB-A,None,None,13.6,29.4,84.8,94.7,2,0,266,5.4,1,
+Desktop PC,LAB-B,None,None,44.1,56.2,63.9,90.1,0,0,11,,0,
+Desktop PC,LAB-A,None,None,31.7,59.2,68.8,96.3,3,0,35,2.4,0,
+Desktop PC,LAB-A,Hardware,Critical,5.0,67.4,43.1,93.8,2,1,113,2.8,1,7.1
+Projector,LAB-C,None,None,15.0,28.2,55.3,87.7,1,0,14,8.5,0,
+Network Switch,LAB-A,Network,Medium,48.5,75.3,54.5,97.5,4,2,36,4.4,1,8.1
+Desktop PC,LAB-B,Software,High,40.6,54.9,60.4,100.0,2,1,8,5.9,1,6.7
+Laptop,LAB-A,Software,Medium,28.8,56.6,58.4,100.0,2,1,28,2.4,1,5.1
+Network Switch,LAB-C,Hardware,Medium,45.6,69.5,48.8,100.0,1,2,11,2.2,1,8.4
+Laptop,LAB-A,None,None,54.0,37.8,71.6,100.0,2,0,25,7.3,0,
+Desktop PC,LAB-C,None,None,35.3,45.4,56.2,99.6,2,0,26,2.9,0,
+Desktop PC,LAB-B,Software,High,49.3,61.2,75.8,100.0,2,2,274,2.9,1,5.9
+Desktop PC,LAB-A,Other,Low,49.2,73.8,37.5,99.4,3,1,289,2.2,1,2.1
+Network Switch,LAB-A,Hardware,Low,62.1,57.4,39.5,98.2,1,1,7,5.7,0,5.7
+Projector,LAB-A,Hardware,Critical,11.3,22.2,59.1,90.9,0,1,71,,1,19.9
+Laptop,LAB-B,Hardware,Medium,45.3,73.0,39.3,100.0,1,2,3,3.5,0,6.9
+Desktop PC,LAB-A,None,None,56.2,75.6,42.8,100.0,0,0,2,,0,
+Desktop PC,LAB-C,Power,Medium,21.0,72.8,54.4,99.9,2,1,6,1.3,1,4.6
+Network Router,LAB-B,Power,High,17.4,49.3,54.0,97.8,2,1,185,2.1,1,6.9
+Network Switch,LAB-A,Thermal,Critical,41.9,43.6,56.5,97.4,3,1,156,6.5,1,13.8
+Network Switch,LAB-B,None,None,43.3,67.5,41.0,100.0,0,0,12,,0,
+Network Router,LAB-B,Network,Critical,38.9,53.5,37.9,96.3,4,1,10,3.5,1,7.8
+Laptop,LAB-A,Hardware,Low,52.7,23.7,53.3,97.1,1,1,15,5.8,0,4.9
+Desktop PC,LAB-A,None,None,59.9,49.0,47.4,100.0,1,0,40,3.9,0,
+Desktop PC,LAB-A,Power,Low,52.4,61.3,58.6,92.6,1,2,46,1.5,1,4.9
+Network Switch,LAB-B,None,None,46.4,67.3,37.8,98.8,0,0,14,,0,
+Laptop,LAB-B,Power,High,44.1,52.3,56.7,100.0,1,3,78,4.2,1,11.9
+Desktop PC,LAB-B,None,None,68.8,28.8,60.7,100.0,4,0,20,3.0,0,
+Desktop PC,LAB-C,None,None,53.5,76.8,80.2,100.0,2,0,140,2.1,0,
+Laptop,LAB-C,None,None,50.5,75.9,54.0,98.1,2,0,59,2.2,0,
+Desktop PC,LAB-B,Software,High,37.3,86.3,40.5,100.0,1,1,32,5.7,1,5.3
+Desktop PC,LAB-C,None,None,56.0,27.0,57.1,90.6,0,0,86,,0,
+Desktop PC,LAB-A,Network,High,58.8,72.7,43.7,98.4,0,1,94,,1,9.5
+Laptop,LAB-A,Thermal,Low,88.0,44.9,37.2,100.0,1,1,19,3.6,0,4.0
+Laptop,LAB-A,Hardware,Medium,88.2,55.1,66.2,100.0,0,1,23,,1,5.0
+Desktop PC,LAB-A,None,None,28.7,45.3,69.2,100.0,1,0,151,3.4,0,
+Network Router,LAB-B,Power,High,43.4,49.4,67.9,98.4,1,1,10,7.7,1,7.2
+Desktop PC,LAB-C,Network,Low,37.6,61.8,73.8,100.0,2,1,2,1.9,1,1.8
+Desktop PC,LAB-A,None,None,54.1,64.3,52.6,100.0,1,0,33,2.9,0,
+Network Router,LAB-A,None,None,5.0,56.4,50.4,97.5,1,0,89,2.0,0,
+Laptop,LAB-B,None,None,53.5,50.9,76.6,100.0,2,0,81,4.2,0,
+Network Switch,LAB-C,Network,Medium,28.0,58.2,47.3,98.5,3,1,139,3.5,1,6.0
+Laptop,LAB-A,None,None,49.3,39.8,36.2,100.0,1,0,42,2.4,0,
+Laptop,LAB-B,None,None,58.8,38.9,64.5,95.8,2,0,6,2.6,0,
+Desktop PC,LAB-A,Software,High,50.6,71.4,51.5,99.6,0,2,49,,1,4.9
+Desktop PC,LAB-A,Other,Low,33.6,51.1,49.1,95.4,2,1,83,5.3,0,2.2
+Desktop PC,LAB-C,Network,Critical,41.1,24.0,45.1,97.0,1,1,5,6.2,1,14.6
+Desktop PC,LAB-C,Software,Medium,39.4,50.2,51.1,99.7,3,1,10,2.1,0,2.1
+Projector,LAB-A,None,None,27.0,23.5,45.7,92.3,2,0,2,12.3,0,
+Desktop PC,LAB-C,Hardware,Low,34.3,48.0,41.2,93.5,1,1,50,1.1,0,3.2
+Network Switch,LAB-B,None,None,28.2,62.2,54.0,98.4,2,0,120,1.4,0,
+Laptop,LAB-C,Hardware,Low,35.9,36.5,51.6,95.0,1,1,61,2.5,0,4.0
+Network Router,LAB-B,Hardware,Critical,43.6,38.6,44.4,99.7,4,1,221,1.8,1,15.8
+Desktop PC,LAB-B,None,None,49.0,100.0,56.9,94.5,1,0,4,1.6,0,
+Laptop,LAB-B,Power,Medium,42.9,19.5,50.9,95.1,1,1,128,6.1,1,8.1
+Desktop PC,LAB-B,None,None,65.1,44.0,50.4,95.8,0,0,93,,0,
+Desktop PC,LAB-A,None,None,83.3,48.6,77.7,100.0,3,0,21,4.2,0,
+Network Router,LAB-A,Software,Medium,42.2,64.4,51.9,96.3,3,2,200,3.2,1,3.1
+Desktop PC,LAB-A,Power,Medium,38.9,71.9,51.3,93.1,1,1,19,2.1,1,4.4
+Desktop PC,LAB-B,Hardware,Medium,43.8,89.1,69.5,97.8,1,1,121,1.5,0,4.9
+Laptop,LAB-A,None,None,65.9,47.7,28.1,94.8,2,0,117,1.4,0,
+Desktop PC,LAB-B,Hardware,Medium,79.4,49.5,48.6,97.0,0,1,78,,1,3.7
+Projector,LAB-C,None,None,35.2,46.3,98.0,95.9,2,0,46,6.1,1,
+Projector,LAB-A,None,None,22.4,14.8,88.6,91.8,2,0,7,5.9,1,
+Projector,LAB-B,None,None,21.7,19.0,55.6,93.2,2,0,42,2.6,0,
+Desktop PC,LAB-B,None,None,31.6,44.2,44.3,100.0,2,0,24,1.0,0,
+Desktop PC,LAB-C,Thermal,Low,20.7,59.4,69.1,96.2,3,1,86,4.5,0,2.3
+Projector,LAB-A,None,None,14.3,27.7,83.9,97.3,2,0,78,2.6,0,
+Desktop PC,LAB-B,None,None,33.3,64.7,36.6,100.0,1,0,133,5.5,0,
+Projector,LAB-C,None,None,23.3,26.9,51.6,93.0,1,0,2,1.4,0,
+Projector,LAB-C,Thermal,Medium,24.3,42.3,54.8,98.3,3,1,91,3.2,1,6.6
+Network Switch,LAB-B,Thermal,Medium,5.0,53.0,47.7,97.8,1,1,153,1.3,0,5.2
+Desktop PC,LAB-B,None,None,24.4,41.6,56.1,97.3,6,0,86,1.8,0,
+Desktop PC,LAB-B,Other,Critical,5.0,12.6,43.5,99.6,4,1,8,1.8,1,6.8
+Network Switch,LAB-C,None,None,5.0,54.0,42.7,100.0,3,0,5,2.5,0,
+Desktop PC,LAB-B,Hardware,Medium,36.5,62.7,54.0,90.5,2,1,2,6.4,1,10.7
+Desktop PC,LAB-A,None,None,61.9,59.3,59.1,100.0,3,0,54,3.3,0,
+Laptop,LAB-C,None,None,5.0,89.5,48.0,99.0,2,0,55,4.9,0,
+Projector,LAB-B,Hardware,Medium,19.6,25.8,55.9,97.8,0,1,238,,1,7.2
+Laptop,LAB-B,Thermal,Medium,11.6,70.0,46.2,94.0,3,2,28,3.2,1,6.4
+Laptop,LAB-A,None,None,35.1,80.1,44.5,99.3,1,0,22,2.3,0,
+Desktop PC,LAB-B,Hardware,Low,28.9,70.2,61.6,100.0,2,1,54,0.6,1,2.6
+Laptop,LAB-A,Power,Low,41.1,68.4,53.4,100.0,1,1,96,1.5,0,3.8
+Projector,LAB-B,Network,Low,14.2,37.5,61.9,96.2,1,2,152,3.0,1,4.7
+Desktop PC,LAB-A,None,None,47.0,60.0,50.4,98.8,0,0,89,,0,
+Desktop PC,LAB-B,None,None,79.7,74.7,64.2,96.4,3,0,31,3.4,0,
+Network Switch,LAB-C,Network,Critical,21.7,71.5,56.8,100.0,3,1,55,5.5,1,7.3
+Network Router,LAB-A,None,None,25.9,57.2,31.6,98.6,3,0,107,0.8,1,
+Laptop,LAB-C,None,None,66.9,45.7,61.0,97.3,1,0,37,9.8,0,
+Network Router,LAB-B,None,None,39.9,46.2,48.9,94.7,2,0,13,0.6,0,
+Desktop PC,LAB-C,Hardware,Medium,40.9,22.4,68.9,100.0,0,1,10,,0,4.0
+Desktop PC,LAB-C,None,None,55.3,85.4,38.7,100.0,1,0,2,2.9,0,
+Network Switch,LAB-B,Other,High,49.0,57.2,59.4,97.5,1,1,70,2.0,1,8.8
+Network Switch,LAB-B,None,None,22.6,52.7,42.7,97.6,1,0,6,1.5,0,
+Network Switch,LAB-C,None,None,53.3,56.9,51.5,98.3,1,0,15,7.4,0,
+Projector,LAB-B,None,None,5.4,32.7,35.0,96.2,0,0,19,,0,
+Desktop PC,LAB-A,None,None,14.9,94.7,64.8,98.4,4,0,45,2.1,0,
+Desktop PC,LAB-B,Software,Medium,72.8,38.1,59.6,98.7,3,1,28,0.8,0,4.2
+Network Router,LAB-C,Hardware,Medium,39.0,75.3,55.3,99.6,3,1,62,1.2,1,6.8
+Laptop,LAB-C,None,None,8.6,35.8,50.3,98.3,5,0,3,5.9,0,
+Network Router,LAB-C,None,None,18.0,88.9,63.2,100.0,3,0,7,1.2,0,
+Network Router,LAB-B,Network,Low,36.1,57.5,38.5,99.3,3,2,38,1.0,1,5.8
+Network Switch,LAB-C,Hardware,Low,38.9,45.1,51.3,99.0,2,2,23,3.4,1,5.6
+Desktop PC,LAB-A,Network,Medium,5.0,37.8,46.2,100.0,1,1,19,2.5,0,3.9
+Desktop PC,LAB-B,Power,Medium,57.2,28.3,58.8,92.6,1,1,4,4.1,1,6.3
+Desktop PC,LAB-A,None,None,68.8,45.6,50.7,100.0,2,0,124,2.3,0,
+Laptop,LAB-A,Hardware,High,16.7,27.1,43.8,100.0,0,2,65,,1,14.4
+Desktop PC,LAB-A,None,None,11.6,10.0,45.7,99.9,2,0,7,4.8,0,
+Desktop PC,LAB-A,None,None,71.4,45.7,46.2,100.0,4,0,4,1.1,0,
+Desktop PC,LAB-B,Network,Medium,5.0,47.2,54.7,99.6,2,1,203,0.9,1,5.5
+Desktop PC,LAB-A,Hardware,High,33.8,55.7,28.0,95.7,3,1,63,3.6,1,5.9
+Laptop,LAB-B,Hardware,Medium,55.0,35.4,52.8,99.6,0,1,30,,0,5.7
+Desktop PC,LAB-A,None,None,37.5,58.4,38.5,97.3,0,0,67,,0,
+Desktop PC,LAB-A,None,None,58.4,58.1,43.8,98.8,2,0,78,2.5,0,
+Network Switch,LAB-A,None,None,45.7,35.4,59.6,98.7,3,0,83,2.2,0,
+Desktop PC,LAB-A,Hardware,Critical,54.4,78.9,32.8,95.5,2,1,36,4.5,1,12.5
+Desktop PC,LAB-B,None,None,38.7,39.3,76.3,95.0,0,0,31,,0,
+Desktop PC,LAB-B,Network,Medium,32.8,59.1,35.2,96.6,1,3,2,10.7,1,6.0
+Network Router,LAB-B,None,None,39.8,56.0,47.1,98.4,1,0,144,0.9,0,
+Desktop PC,LAB-B,Hardware,Medium,11.7,61.4,76.6,98.1,2,1,51,6.5,1,5.7
+Laptop,LAB-A,Other,Critical,50.0,68.9,34.2,100.0,1,2,12,4.6,1,14.5
+Desktop PC,LAB-C,None,None,49.5,87.6,41.7,100.0,1,0,139,2.1,0,
+Desktop PC,LAB-B,None,None,62.1,66.1,55.3,97.1,2,0,136,7.8,0,
+Desktop PC,LAB-B,Hardware,Medium,71.4,57.8,28.0,94.1,2,1,249,1.2,1,6.7
+Desktop PC,LAB-A,None,None,40.9,61.2,51.2,100.0,1,0,114,4.0,0,
+Laptop,LAB-A,Hardware,Medium,5.0,57.9,28.0,100.0,0,1,336,,1,8.8
+Network Router,LAB-A,Power,High,33.6,65.0,39.4,100.0,1,1,15,2.7,1,7.6
+Projector,LAB-A,None,None,28.3,35.8,62.9,98.8,2,0,102,2.1,0,
+Desktop PC,LAB-B,Hardware,Low,29.4,72.1,75.1,100.0,2,2,95,1.3,1,3.3
+Desktop PC,LAB-B,None,None,28.9,62.2,33.9,100.0,1,0,14,13.2,0,
+Network Router,LAB-B,Software,Medium,41.8,37.6,36.4,98.8,0,2,6,,1,5.2
+Desktop PC,LAB-C,None,None,38.4,30.8,57.4,98.9,3,0,214,2.1,1,
+Desktop PC,LAB-C,Hardware,Medium,40.7,39.9,66.7,100.0,4,1,19,0.5,1,8.3
+Desktop PC,LAB-B,None,None,34.4,42.8,58.9,96.7,1,0,113,5.1,0,
+Desktop PC,LAB-C,None,None,41.9,69.8,28.0,100.0,2,0,2,3.7,0,
+Projector,LAB-A,None,None,20.6,25.9,63.6,96.3,5,0,2,2.5,0,
+Network Switch,LAB-A,Thermal,Medium,9.0,77.9,48.4,99.9,1,2,34,2.3,1,6.0
+Laptop,LAB-A,Thermal,Medium,65.9,34.6,58.6,97.1,3,1,15,2.9,0,5.9
+Desktop PC,LAB-B,Thermal,High,63.6,12.5,50.6,95.9,1,1,64,5.1,1,8.2
+Desktop PC,LAB-C,None,None,54.5,64.4,42.1,95.5,0,0,46,,0,
+Desktop PC,LAB-A,Hardware,Medium,42.6,37.1,63.8,96.7,1,2,4,3.8,1,6.7
+Desktop PC,LAB-C,Hardware,High,5.0,47.5,37.5,92.3,2,2,10,4.2,1,8.9
+Desktop PC,LAB-A,None,None,17.8,57.2,70.6,99.1,1,0,27,4.2,0,
+Network Router,LAB-C,None,None,25.9,65.5,43.4,98.2,2,0,11,5.2,0,
+Laptop,LAB-A,None,None,19.6,20.0,46.5,98.6,1,0,86,6.2,0,
+Desktop PC,LAB-A,None,None,42.9,46.7,38.8,100.0,3,0,30,1.9,0,
+Projector,LAB-B,None,None,9.5,37.8,49.0,93.5,2,0,5,3.4,0,
+Network Router,LAB-A,Power,Medium,13.0,54.0,57.8,100.0,2,1,36,6.0,0,4.6
+Laptop,LAB-A,None,None,66.5,65.4,36.5,96.8,3,0,5,1.8,0,
+Laptop,LAB-A,Software,High,27.8,81.6,35.2,100.0,1,1,8,6.9,1,3.2
+Desktop PC,LAB-C,Software,Critical,64.6,91.6,46.3,100.0,2,1,15,1.8,1,6.9
+Desktop PC,LAB-B,Software,Low,95.2,42.6,30.5,91.4,4,1,108,3.9,1,0.7
+Desktop PC,LAB-A,Hardware,Medium,60.7,17.3,46.8,99.5,5,2,142,2.5,1,8.4
+Network Router,LAB-B,None,None,37.8,65.1,50.2,100.0,2,0,96,2.2,0,
+Desktop PC,LAB-B,Hardware,Medium,24.0,41.5,41.2,100.0,0,2,22,,1,6.2
+Desktop PC,LAB-A,None,None,64.8,64.0,68.6,93.9,2,0,17,4.1,0,
+Desktop PC,LAB-B,Power,Medium,81.7,85.5,62.3,100.0,4,1,44,6.2,1,4.2
+Desktop PC,LAB-A,Thermal,Medium,8.6,44.5,41.7,100.0,0,2,70,,1,4.5
+Network Switch,LAB-A,Software,Medium,19.2,69.1,61.7,100.0,1,1,276,2.5,1,4.5
+Network Router,LAB-B,Thermal,Medium,39.3,48.1,39.5,100.0,3,1,8,6.6,0,7.6
+Desktop PC,LAB-A,None,None,62.1,54.2,46.1,90.9,1,0,3,1.8,0,
+Desktop PC,LAB-B,None,None,21.4,93.2,34.1,98.7,0,0,65,,0,
+Desktop PC,LAB-B,Software,Medium,67.2,29.9,54.6,100.0,1,1,98,6.3,0,3.4
+Desktop PC,LAB-A,None,None,45.3,100.0,28.6,100.0,1,0,103,3.3,0,
+Desktop PC,LAB-B,Software,Medium,41.2,70.4,58.2,95.4,2,1,62,3.7,0,3.0
+Desktop PC,LAB-A,None,None,50.0,17.8,60.4,99.0,0,0,169,,0,
+Desktop PC,LAB-C,Software,Medium,59.1,76.2,57.1,98.5,1,1,39,1.3,0,1.8
+Laptop,LAB-B,None,None,25.6,40.8,68.6,100.0,1,0,135,2.2,0,
+Laptop,LAB-C,None,None,39.8,55.9,39.3,100.0,3,0,189,3.0,1,
+Desktop PC,LAB-B,Other,Medium,59.6,93.8,39.7,96.7,3,2,103,5.8,1,4.3
+Desktop PC,LAB-A,None,None,50.1,67.9,49.0,94.9,2,0,20,2.6,0,
+Laptop,LAB-B,None,None,64.4,69.4,39.2,100.0,0,0,12,,0,
+Desktop PC,LAB-C,None,None,70.7,57.7,53.1,99.9,2,0,44,1.7,0,
+Network Switch,LAB-B,None,None,22.1,60.4,30.0,100.0,2,0,33,3.5,0,
+Laptop,LAB-C,None,None,10.6,85.1,47.4,97.3,1,0,116,9.1,0,
+Desktop PC,LAB-C,None,None,31.2,49.2,71.9,89.3,1,0,6,3.8,1,
+Desktop PC,LAB-A,Other,High,73.1,61.8,35.1,94.2,1,1,16,2.6,1,9.8
+Laptop,LAB-A,None,None,81.9,36.1,35.9,100.0,1,0,77,3.5,0,
+Desktop PC,LAB-B,Hardware,Low,52.4,36.2,55.0,94.4,2,1,5,1.6,0,4.5
+Laptop,LAB-B,None,None,69.2,76.2,59.4,99.3,1,0,21,7.1,0,
+Projector,LAB-C,None,None,34.1,30.0,46.1,98.3,1,0,27,7.1,0,
+Laptop,LAB-C,None,None,90.9,34.7,46.9,99.5,3,0,54,1.5,0,
+Desktop PC,LAB-A,Hardware,Critical,43.8,35.4,67.7,100.0,3,1,9,6.9,1,8.0
+Laptop,LAB-A,None,None,49.3,36.9,30.3,98.9,2,0,108,3.6,0,
+Desktop PC,LAB-C,Network,High,69.3,64.5,52.0,95.9,2,1,33,4.7,1,6.4
+Desktop PC,LAB-A,None,None,21.0,71.7,64.8,92.6,2,0,137,3.0,0,
+Projector,LAB-C,None,None,32.7,35.7,87.4,91.1,2,0,35,3.2,1,
+Desktop PC,LAB-B,Thermal,Critical,15.0,52.0,59.0,100.0,0,2,18,,1,13.2
+Projector,LAB-B,None,None,25.6,27.6,48.6,100.0,1,0,8,2.0,0,
+Projector,LAB-A,None,None,12.3,46.3,60.4,100.0,0,0,2,,0,
+Desktop PC,LAB-B,Other,High,59.9,52.3,44.7,96.8,1,1,42,1.6,0,5.0
+Desktop PC,LAB-B,Network,High,54.4,56.5,43.7,97.4,1,1,6,1.5,0,3.6
+Desktop PC,LAB-B,Software,Medium,46.7,12.4,58.4,94.6,3,2,27,5.9,1,3.9
+Desktop PC,LAB-A,Hardware,Low,19.6,21.3,28.0,93.3,2,1,49,3.4,1,2.8
+Desktop PC,LAB-B,Power,Low,29.4,94.1,44.6,98.6,0,1,18,,0,2.5
+Laptop,LAB-C,Hardware,Low,53.8,57.6,50.9,93.8,2,1,11,1.6,0,3.7
+Desktop PC,LAB-A,None,None,76.9,91.1,28.4,94.4,2,0,82,3.2,0,
+Desktop PC,LAB-A,Hardware,Medium,38.8,35.7,59.1,95.5,1,1,161,0.8,0,5.0
+Network Switch,LAB-A,Hardware,Medium,67.5,74.3,50.1,100.0,6,1,6,1.6,1,6.4
+Desktop PC,LAB-B,None,None,69.3,43.7,40.6,98.3,1,0,9,6.3,0,
+Network Switch,LAB-B,None,None,47.9,61.7,32.2,98.0,2,0,177,2.1,0,
+Desktop PC,LAB-B,None,None,43.4,53.5,79.6,93.1,4,0,2,5.8,0,
+Desktop PC,LAB-A,Hardware,Medium,56.1,84.8,83.8,96.6,0,1,209,,1,4.2
+Laptop,LAB-A,None,None,55.8,66.4,54.7,97.7,0,0,2,,0,
+Laptop,LAB-B,Power,Low,54.6,10.0,61.5,98.4,1,2,114,2.9,1,4.5
+Network Switch,LAB-B,None,None,31.7,84.6,41.3,98.6,3,0,20,4.7,0,
+Network Router,LAB-C,Network,Low,64.9,50.0,42.5,99.0,0,1,153,,0,2.1
+Network Switch,LAB-A,None,None,47.6,62.5,35.1,98.4,0,0,21,,0,
+Desktop PC,LAB-B,Thermal,High,31.6,53.5,58.0,99.5,1,2,58,1.3,1,8.8
+Desktop PC,LAB-B,Power,Medium,5.9,76.3,55.5,100.0,0,2,5,,1,2.9
+Network Router,LAB-B,Power,High,41.7,73.2,52.7,100.0,1,1,15,4.2,1,7.7
+Network Switch,LAB-B,Software,Critical,42.8,58.8,70.7,100.0,2,1,82,0.5,1,13.0
+Projector,LAB-B,Network,Critical,24.6,17.2,44.4,97.7,2,1,41,2.2,1,9.2
+Desktop PC,LAB-C,None,None,48.2,42.7,54.0,100.0,3,0,145,6.5,0,
+Desktop PC,LAB-A,None,None,60.3,32.2,50.4,95.2,1,0,31,3.1,0,
+Network Router,LAB-A,Other,High,29.2,55.0,43.2,97.3,0,1,112,,1,8.4
+Desktop PC,LAB-B,None,None,42.2,43.8,28.0,100.0,1,0,33,1.5,0,
+Projector,LAB-B,None,None,28.7,26.2,65.3,91.8,0,0,213,,0,
+Network Switch,LAB-A,Thermal,Medium,60.4,82.8,49.6,100.0,2,1,177,6.2,1,7.5
+Desktop PC,LAB-A,None,None,48.9,28.3,46.2,98.5,2,0,22,9.8,0,
+Network Router,LAB-A,None,None,28.2,57.4,47.1,99.1,2,0,119,2.6,0,
+Network Router,LAB-C,Hardware,Medium,35.8,47.3,40.8,97.3,1,1,103,0.9,0,2.7
+Desktop PC,LAB-A,None,None,66.5,12.9,68.2,100.0,3,0,13,3.1,0,
+Projector,LAB-A,None,None,17.6,10.0,59.2,96.2,2,0,54,4.9,0,
+Desktop PC,LAB-A,None,None,22.8,44.7,73.4,100.0,2,0,4,2.7,0,
+Network Switch,LAB-A,Software,Medium,21.1,40.8,44.7,98.9,3,1,100,0.5,0,3.7
+Desktop PC,LAB-A,Hardware,Low,55.9,44.3,59.2,100.0,3,2,11,4.5,1,2.2
+Network Switch,LAB-B,Network,Critical,47.2,59.4,46.2,98.7,1,1,4,1.8,1,11.4
+Desktop PC,LAB-A,None,None,71.0,42.5,52.6,98.2,1,0,28,2.2,0,
+Desktop PC,LAB-C,Thermal,Medium,34.0,27.6,56.5,97.8,1,1,47,0.9,1,4.4
+Projector,LAB-A,Hardware,Medium,24.0,24.7,84.5,93.0,0,1,106,,1,3.6
+Desktop PC,LAB-B,Hardware,Medium,82.7,20.0,58.1,99.7,0,1,201,,1,8.4
+Desktop PC,LAB-C,Power,Medium,27.5,63.5,69.9,90.2,0,2,32,,1,6.4
+Projector,LAB-B,None,None,24.0,10.0,49.5,100.0,2,0,3,0.5,0,
+Projector,LAB-B,None,None,15.3,18.3,61.8,100.0,5,0,76,1.3,0,
+Laptop,LAB-A,None,None,5.0,34.0,73.0,100.0,3,0,46,2.1,0,
+Laptop,LAB-A,None,None,42.7,30.2,81.3,100.0,0,0,33,,0,
+Desktop PC,LAB-B,Software,Critical,59.9,38.8,51.3,97.4,2,1,20,2.1,1,7.4
+Desktop PC,LAB-C,Hardware,Low,52.3,84.0,64.3,94.2,2,1,38,7.3,1,4.9
+Desktop PC,LAB-B,Software,Low,75.3,61.3,61.6,100.0,2,1,23,1.4,0,0.5
+Laptop,LAB-B,None,None,20.5,54.3,44.6,92.5,0,0,78,,0,
+Network Router,LAB-B,None,None,40.2,90.1,30.0,99.2,0,0,43,,0,
+Network Router,LAB-B,None,None,44.6,61.5,46.9,97.3,0,0,115,,0,
+Network Router,LAB-A,None,None,38.5,50.9,30.0,100.0,1,0,43,5.5,0,
+Desktop PC,LAB-B,None,None,66.1,56.0,55.2,100.0,2,0,15,3.3,0,
+Desktop PC,LAB-C,Power,High,49.9,73.1,47.8,100.0,1,2,105,8.0,1,6.3
+Desktop PC,LAB-A,None,None,52.1,58.9,34.2,99.0,1,0,45,2.9,0,
+Desktop PC,LAB-B,Software,Critical,26.7,42.2,40.6,94.3,0,1,13,,1,5.1
+Desktop PC,LAB-A,None,None,91.7,81.6,78.9,93.7,2,0,54,0.6,1,
+Network Switch,LAB-B,Hardware,Low,36.1,44.5,41.0,97.8,1,2,24,2.7,1,9.1
+Desktop PC,LAB-A,None,None,72.3,47.1,67.0,100.0,2,0,102,0.5,0,
+Desktop PC,LAB-B,None,None,95.7,25.4,69.6,100.0,2,0,33,1.3,0,
+Desktop PC,LAB-C,Software,High,23.6,75.1,56.7,97.2,1,1,71,2.7,1,5.5
+Network Router,LAB-A,Software,Low,22.6,51.4,68.5,99.2,1,3,6,2.8,1,5.0
+Laptop,LAB-B,None,None,62.2,39.2,41.1,100.0,1,0,28,5.4,0,
+Desktop PC,LAB-C,None,None,15.3,46.7,52.5,98.4,1,0,225,4.0,0,
+Desktop PC,LAB-C,None,None,41.1,62.9,61.7,100.0,0,0,91,,0,
+Network Router,LAB-A,Hardware,Critical,20.2,56.6,59.9,100.0,4,2,10,7.5,1,15.0
+Desktop PC,LAB-A,Other,Low,14.8,62.0,28.0,98.2,2,1,18,5.4,0,2.0
+Network Switch,LAB-A,None,None,63.5,48.6,39.7,100.0,1,0,22,5.0,0,
+Network Router,LAB-C,None,None,11.9,52.4,54.0,98.2,5,0,58,9.3,0,
+Desktop PC,LAB-C,Software,Medium,39.8,69.9,57.9,98.9,1,1,78,5.2,1,2.7
+Desktop PC,LAB-B,None,None,37.5,62.4,50.3,99.6,2,0,76,6.7,0,
+Projector,LAB-C,Other,High,16.0,28.2,49.2,96.4,1,1,39,0.8,1,8.0
+Desktop PC,LAB-B,None,None,27.2,32.7,55.6,98.7,1,0,92,2.4,0,
+Desktop PC,LAB-B,Hardware,High,62.2,46.4,57.7,99.9,1,1,32,3.9,1,7.9
+Network Switch,LAB-A,None,None,41.7,50.1,49.5,99.7,1,0,7,3.2,0,
+Projector,LAB-C,None,None,20.1,10.0,67.6,100.0,1,0,46,1.7,0,
+Projector,LAB-A,None,None,17.1,22.7,71.0,97.7,0,0,167,,0,
+Network Router,LAB-C,Software,Critical,52.9,44.9,55.3,100.0,1,1,87,5.0,1,8.7
+Desktop PC,LAB-C,Hardware,Low,41.9,61.8,66.4,100.0,1,1,48,5.8,1,3.4
+Desktop PC,LAB-B,Network,Medium,19.9,71.4,51.1,98.3,2,2,57,2.9,1,5.6
+Network Router,LAB-A,Hardware,Low,36.1,58.2,59.9,99.1,0,1,147,,1,4.5
+Laptop,LAB-A,None,None,20.4,47.1,54.5,100.0,2,0,31,2.5,0,
+Desktop PC,LAB-A,None,None,58.3,38.0,86.8,98.9,2,0,22,2.1,0,
+Projector,LAB-A,Hardware,Medium,30.2,28.5,73.5,99.9,1,1,208,5.2,1,4.6
+Desktop PC,LAB-A,None,None,71.8,76.1,64.2,96.9,1,0,110,2.5,0,
+Desktop PC,LAB-C,None,None,32.4,61.7,65.1,97.2,3,0,21,3.1,1,
+Desktop PC,LAB-B,None,None,68.4,84.1,39.2,95.1,3,0,34,6.3,0,
+Desktop PC,LAB-A,None,None,41.9,61.2,44.7,100.0,1,0,29,3.7,0,
+Desktop PC,LAB-A,None,None,54.3,55.8,31.9,93.4,2,0,9,3.1,0,
+Desktop PC,LAB-B,Software,High,51.2,12.3,66.2,97.4,1,2,174,2.0,1,4.5
+Desktop PC,LAB-B,Software,Medium,100.0,100.0,49.5,97.6,3,1,28,3.0,1,3.4
+Laptop,LAB-B,Hardware,Critical,66.9,89.1,29.1,91.7,0,1,115,,1,11.4
+Network Router,LAB-C,Hardware,Medium,25.7,67.0,53.0,100.0,3,2,12,1.8,1,8.6
+Laptop,LAB-B,Hardware,Medium,18.6,10.0,64.0,95.1,1,3,44,3.5,1,6.2
+Projector,LAB-C,None,None,5.0,31.5,77.7,96.0,1,0,2,2.2,0,
+Desktop PC,LAB-C,None,None,34.9,51.8,46.8,93.3,2,0,79,2.4,0,
+Desktop PC,LAB-A,Other,Medium,29.3,65.4,56.5,98.6,1,3,48,3.0,1,4.1
+Network Switch,LAB-C,None,None,20.1,57.8,30.0,99.5,1,0,54,8.1,0,
+Desktop PC,LAB-A,None,None,76.4,25.5,43.8,99.2,3,0,3,3.9,0,
+Projector,LAB-C,None,None,30.0,25.5,53.9,88.6,2,0,13,1.3,0,
+Desktop PC,LAB-A,None,None,47.3,95.8,55.9,97.9,1,0,4,2.5,0,
+Projector,LAB-C,None,None,22.6,29.9,52.0,99.8,3,0,19,2.0,0,
+Desktop PC,LAB-C,None,None,50.0,55.4,38.3,100.0,2,0,54,2.0,0,
+Network Switch,LAB-C,None,None,45.0,53.4,58.0,98.5,0,0,46,,0,
+Desktop PC,LAB-C,Hardware,Critical,27.8,39.8,28.0,99.7,0,1,52,,1,9.5
+Projector,LAB-A,Network,High,5.4,17.7,35.0,96.2,1,2,44,2.0,1,8.7
+Desktop PC,LAB-A,Network,High,41.7,48.5,37.4,93.9,1,1,18,2.5,1,5.5
+Laptop,LAB-B,None,None,55.2,44.0,56.4,94.9,2,0,15,1.8,0,
+Projector,LAB-A,None,None,21.4,43.0,74.4,94.9,2,0,8,1.8,1,
+Desktop PC,LAB-B,Software,Low,50.7,50.2,52.1,96.9,1,1,104,2.0,0,1.1
+Laptop,LAB-A,None,None,41.4,59.2,38.1,94.4,3,0,53,2.0,0,
+Laptop,LAB-C,Software,Medium,14.5,23.0,35.0,98.6,1,1,11,1.6,0,3.3
+Desktop PC,LAB-B,Network,Critical,25.4,65.3,52.5,91.1,2,2,11,4.4,1,18.6
+Laptop,LAB-C,Network,Low,59.4,71.2,38.1,99.5,0,1,114,,0,3.1
+Laptop,LAB-A,Hardware,High,26.2,57.0,34.3,91.7,0,2,75,,0,5.2
+Projector,LAB-C,None,None,16.9,28.8,58.6,91.8,0,0,59,,0,
+Desktop PC,LAB-C,None,None,36.2,60.4,51.4,98.6,4,0,29,2.3,0,
+Desktop PC,LAB-B,Software,Critical,30.3,78.4,35.5,99.7,1,2,17,2.6,1,13.4
+Projector,LAB-B,None,None,29.5,34.8,61.8,94.4,1,0,214,2.5,0,
+Network Switch,LAB-C,None,None,50.5,42.9,38.3,98.6,0,0,88,,0,
+Desktop PC,LAB-A,None,None,72.2,62.6,38.4,96.9,0,0,20,,0,
+Laptop,LAB-B,None,None,31.5,40.8,65.7,93.2,2,0,103,1.9,0,
+Desktop PC,LAB-A,None,None,80.4,71.6,67.3,96.4,2,0,78,1.6,0,
+Desktop PC,LAB-A,None,None,41.7,26.3,44.7,99.7,0,0,19,,0,
+Desktop PC,LAB-A,Hardware,Low,73.5,32.9,46.9,97.5,2,2,31,4.7,1,3.2
+Desktop PC,LAB-A,Hardware,Critical,14.3,66.8,41.9,97.3,2,1,11,1.6,1,12.4
+Laptop,LAB-A,Hardware,Medium,35.1,39.2,51.9,97.2,1,3,6,1.7,1,6.8
+Desktop PC,LAB-A,Hardware,Medium,36.8,40.4,56.5,100.0,1,1,71,5.6,1,8.9
+Projector,LAB-C,None,None,21.1,40.0,42.8,97.1,2,0,17,2.1,0,
+Projector,LAB-B,None,None,11.2,15.2,53.2,100.0,3,0,94,3.0,0,
+Laptop,LAB-C,None,None,65.9,59.9,30.5,97.3,3,0,299,2.4,0,
+Desktop PC,LAB-B,Software,High,51.6,58.5,28.0,94.9,2,1,4,2.9,1,7.3
+Desktop PC,LAB-A,Hardware,High,43.6,65.7,28.0,97.4,2,1,35,7.2,1,6.4
+Network Switch,LAB-B,None,None,37.1,70.2,54.9,100.0,3,0,89,1.8,0,
+Laptop,LAB-B,None,None,27.4,16.8,46.5,100.0,1,0,86,4.4,0,
+Desktop PC,LAB-A,Thermal,Medium,75.7,69.2,58.0,99.3,4,1,78,4.7,1,4.3
+Projector,LAB-B,Thermal,Medium,15.6,28.7,91.7,92.7,1,2,24,4.5,1,7.5
+Network Switch,LAB-A,Thermal,High,59.2,56.1,61.3,97.1,0,1,33,,0,10.1
+Projector,LAB-B,None,None,24.7,22.6,42.4,97.4,1,0,50,7.0,0,
+Network Router,LAB-B,None,None,50.1,49.9,33.0,99.1,0,0,201,,0,
+Laptop,LAB-A,Power,Medium,43.1,66.0,65.3,97.8,1,2,22,0.5,1,6.6
+Desktop PC,LAB-A,Hardware,Critical,85.8,59.5,47.2,92.4,3,1,141,1.0,1,9.1
+Projector,LAB-C,Hardware,High,17.9,26.6,80.4,98.3,2,1,17,1.5,1,7.7
+Network Switch,LAB-B,Hardware,Medium,17.3,62.1,54.7,100.0,0,1,248,,1,6.4
+Desktop PC,LAB-A,Hardware,High,64.5,70.2,52.8,99.4,4,1,61,2.1,1,10.5
+Desktop PC,LAB-C,Thermal,High,72.5,28.3,47.1,95.3,2,1,34,3.6,1,7.7
+Desktop PC,LAB-A,None,None,53.3,79.6,43.6,89.6,2,0,52,1.6,0,
+Network Switch,LAB-B,None,None,28.8,71.0,53.4,99.8,3,0,18,1.6,0,
+Projector,LAB-C,Hardware,Medium,17.8,17.2,73.2,93.2,1,1,18,3.2,1,5.5
+Desktop PC,LAB-A,None,None,93.1,66.4,43.9,95.9,3,0,7,4.1,0,
+Laptop,LAB-A,None,None,43.0,50.2,67.6,98.7,2,0,7,3.0,0,
+Desktop PC,LAB-A,Hardware,High,28.9,92.8,52.7,100.0,3,1,23,4.2,1,9.1
+Projector,LAB-A,Thermal,Low,15.1,33.6,70.0,88.9,1,1,79,0.9,0,3.7
+Network Switch,LAB-A,None,None,65.2,75.5,44.0,97.5,1,0,52,1.8,0,
+Network Switch,LAB-B,None,None,40.2,61.0,51.6,99.5,0,0,6,,0,
+Desktop PC,LAB-A,Other,Medium,56.1,83.9,60.0,94.3,2,1,105,1.5,0,4.4
+Desktop PC,LAB-B,Software,Low,75.0,87.8,96.0,94.1,4,1,51,2.1,1,1.5
+Desktop PC,LAB-C,Hardware,Medium,50.3,13.4,59.7,96.1,0,1,178,,1,4.8
+Desktop PC,LAB-C,None,None,87.3,39.5,28.4,96.4,2,0,61,2.9,0,
+Network Switch,LAB-B,None,None,5.4,69.0,30.0,99.2,2,0,11,0.7,0,
+Network Switch,LAB-A,Thermal,Medium,5.0,56.2,64.4,99.7,1,1,35,2.0,0,6.8
+Projector,LAB-B,Network,Low,13.1,29.7,65.3,98.4,3,1,58,1.8,1,3.1
+Projector,LAB-B,Hardware,Medium,9.1,35.9,35.0,94.0,1,1,2,0.9,1,6.5
+Laptop,LAB-B,None,None,34.3,67.7,52.3,93.1,0,0,2,,0,
+Network Router,LAB-A,None,None,20.2,62.4,47.2,98.3,5,0,8,4.3,0,
+Projector,LAB-C,None,None,16.2,37.0,56.7,96.1,1,0,16,3.0,0,
+Network Switch,LAB-B,Software,Critical,67.5,42.9,30.0,100.0,1,1,31,2.1,1,10.4
+Desktop PC,LAB-A,Hardware,Low,30.1,48.6,41.1,97.1,1,1,37,7.8,1,3.2
+Desktop PC,LAB-A,None,None,80.2,71.0,64.1,93.0,1,0,8,1.0,0,
+Desktop PC,LAB-B,None,None,19.7,10.0,40.7,100.0,1,0,62,8.0,0,
+Projector,LAB-C,Thermal,Low,24.1,27.8,64.6,93.7,0,1,50,,0,7.6
+Laptop,LAB-B,None,None,49.5,70.3,29.4,99.0,2,0,19,2.5,0,
+Desktop PC,LAB-C,Network,Medium,65.5,46.7,61.8,100.0,2,2,2,1.7,1,4.8
+Laptop,LAB-A,Power,High,42.7,62.9,41.7,98.6,1,3,4,2.1,1,11.9
+Laptop,LAB-B,None,None,55.1,58.9,37.7,98.7,3,0,27,2.3,0,
+Desktop PC,LAB-B,None,None,77.2,64.0,65.5,97.2,2,0,9,8.7,0,
+Desktop PC,LAB-A,Network,Medium,61.5,60.6,38.7,99.1,3,1,26,3.6,1,2.5
+Laptop,LAB-A,None,None,23.2,42.3,54.7,99.0,3,0,54,1.3,0,
+Desktop PC,LAB-C,None,None,18.8,76.1,60.0,95.5,0,0,44,,0,
+Network Router,LAB-A,Network,Low,11.9,58.3,43.5,99.4,1,1,14,4.7,0,3.6
+Desktop PC,LAB-B,Software,High,37.0,14.9,46.6,96.9,2,1,23,2.3,1,6.8
+Network Switch,LAB-A,Software,Medium,44.5,51.6,64.8,96.3,1,2,52,0.5,1,4.4
+Laptop,LAB-A,None,None,73.8,50.5,64.0,98.3,0,0,108,,0,
+Laptop,LAB-A,None,None,70.1,47.3,36.6,100.0,0,0,77,,0,
+Network Switch,LAB-C,None,None,33.3,62.7,60.3,97.7,2,0,44,4.6,0,
+Desktop PC,LAB-C,None,None,58.1,43.2,50.1,98.3,3,0,25,4.7,1,
+Desktop PC,LAB-C,Thermal,Medium,12.0,39.4,70.9,100.0,1,1,25,2.4,1,2.3
+Desktop PC,LAB-B,None,None,43.6,59.9,47.9,100.0,1,0,116,1.9,0,
+Network Router,LAB-A,Power,Medium,32.0,62.8,59.5,98.0,3,2,2,5.0,1,6.9
+Laptop,LAB-B,None,None,79.3,24.4,74.8,96.7,0,0,243,,1,
+Network Router,LAB-B,None,None,31.4,37.3,43.5,97.6,5,0,60,1.8,0,
+Desktop PC,LAB-C,Other,Low,31.6,52.3,65.4,98.7,1,1,63,5.7,0,1.7
+Desktop PC,LAB-A,None,None,51.8,33.1,39.7,100.0,1,0,2,1.9,0,
+Desktop PC,LAB-B,None,None,28.8,88.1,48.6,98.0,4,0,51,2.7,0,
+Desktop PC,LAB-A,None,None,68.5,80.4,50.4,96.6,0,0,36,,0,
+Laptop,LAB-A,None,None,43.8,61.8,64.5,98.0,0,0,6,,0,
+Desktop PC,LAB-B,None,None,58.6,87.8,57.3,99.1,1,0,18,3.8,0,
+Desktop PC,LAB-B,None,None,11.6,10.0,57.4,97.7,1,0,122,3.3,0,
+Projector,LAB-A,Other,Medium,15.9,32.4,64.0,100.0,1,1,44,1.7,0,6.0
+Desktop PC,LAB-A,Thermal,High,46.9,40.1,65.9,97.2,2,2,29,3.7,1,13.4
+Desktop PC,LAB-B,None,None,56.6,45.5,42.9,98.3,1,0,4,4.5,0,
+Network Router,LAB-C,None,None,35.2,65.8,45.3,96.4,0,0,69,,0,
+Desktop PC,LAB-C,Hardware,Low,35.5,70.9,47.8,97.1,2,1,67,1.4,0,3.1
+Laptop,LAB-C,None,None,66.7,40.8,30.4,97.4,1,0,52,3.9,0,
+Network Switch,LAB-C,Thermal,Medium,27.7,48.4,46.2,99.9,2,2,39,2.7,1,5.5
+Projector,LAB-A,Hardware,High,19.9,33.1,94.0,95.1,2,1,31,1.4,1,6.9
+Desktop PC,LAB-B,None,None,51.1,44.8,40.2,96.0,1,0,49,3.6,0,
+Projector,LAB-B,Thermal,High,16.2,33.6,98.0,93.6,1,1,15,4.9,1,8.8
+Desktop PC,LAB-A,Power,Medium,35.8,53.7,57.5,98.9,0,2,156,,1,6.8
+Desktop PC,LAB-C,Thermal,High,73.3,10.0,28.0,96.3,2,1,49,2.0,1,6.0
+Desktop PC,LAB-A,None,None,69.1,23.7,28.0,100.0,1,0,21,3.7,0,
+Projector,LAB-C,Hardware,Medium,21.9,19.1,49.2,92.6,4,1,33,2.3,1,8.1
+Desktop PC,LAB-B,Hardware,Low,47.4,42.5,58.9,88.0,1,1,90,4.3,1,3.8
+Desktop PC,LAB-B,None,None,26.1,32.5,48.4,96.1,3,0,10,5.4,0,
+Laptop,LAB-B,Hardware,High,62.6,17.8,52.6,100.0,1,1,19,3.5,1,8.4
+Desktop PC,LAB-C,None,None,85.8,45.4,56.5,91.7,2,0,63,4.5,0,
+Desktop PC,LAB-B,None,None,5.0,71.9,51.9,100.0,2,0,21,5.0,0,
+Desktop PC,LAB-B,Network,Low,14.8,65.4,78.2,99.5,4,1,86,2.0,1,1.8
+Desktop PC,LAB-A,Software,High,51.1,55.2,30.0,100.0,1,1,8,2.2,1,4.5
+Desktop PC,LAB-B,Hardware,Medium,31.6,65.1,30.1,93.9,0,2,79,,1,3.5
+Desktop PC,LAB-A,Other,Critical,76.6,48.1,72.3,97.7,3,1,4,3.8,1,10.6
+Laptop,LAB-B,None,None,5.0,72.8,43.7,100.0,6,0,2,6.2,0,
+Desktop PC,LAB-B,None,None,45.6,24.1,54.3,100.0,1,0,126,1.2,0,
+Desktop PC,LAB-B,Network,High,55.8,53.8,67.1,98.7,0,1,48,,1,6.5
+Network Switch,LAB-A,None,None,38.1,46.9,50.3,100.0,1,0,24,4.0,0,
+Desktop PC,LAB-A,Network,Critical,26.6,83.5,50.7,94.9,1,1,15,5.9,1,11.0
+Laptop,LAB-B,None,None,66.9,49.3,62.6,97.0,0,0,53,,0,
+Desktop PC,LAB-A,None,None,43.7,64.9,56.1,91.0,1,0,39,2.6,0,
+Desktop PC,LAB-A,None,None,20.3,73.6,50.2,96.2,1,0,263,2.9,0,
+Desktop PC,LAB-A,None,None,15.1,33.4,28.0,97.6,4,0,225,2.9,0,
+Desktop PC,LAB-C,Network,High,31.8,35.7,51.0,99.3,4,1,55,2.8,1,7.4
+Desktop PC,LAB-B,Power,Low,91.1,24.8,68.2,100.0,2,1,32,1.7,1,3.3
+Desktop PC,LAB-A,Hardware,Medium,27.9,59.1,45.6,98.6,0,1,37,,1,5.1
+Desktop PC,LAB-A,None,None,78.2,67.1,59.1,96.5,1,0,63,2.7,0,
+Desktop PC,LAB-A,None,None,12.4,50.8,68.9,92.7,1,0,6,1.7,0,
+Desktop PC,LAB-C,None,None,21.8,57.5,38.2,95.2,2,0,22,4.3,0,
+Desktop PC,LAB-B,None,None,35.7,27.7,38.4,100.0,0,0,4,,0,
+Desktop PC,LAB-A,None,None,16.2,23.0,43.2,100.0,5,0,4,0.8,0,
+Desktop PC,LAB-A,None,None,40.7,45.7,52.6,91.9,2,0,12,4.9,0,
+Laptop,LAB-A,None,None,55.9,62.7,46.3,100.0,2,0,37,5.4,0,
+Desktop PC,LAB-B,None,None,20.2,77.6,54.2,96.8,1,0,84,3.3,0,
+Network Router,LAB-C,None,None,34.7,58.7,60.2,97.6,1,0,37,7.7,0,
+Laptop,LAB-A,Other,Medium,28.2,75.7,43.7,100.0,0,1,22,,0,4.2
+Desktop PC,LAB-A,None,None,82.4,47.0,61.5,94.0,3,0,5,3.8,0,
+Network Switch,LAB-A,None,None,46.3,62.4,52.7,98.2,4,0,44,3.6,0,
+Projector,LAB-C,Hardware,High,6.7,35.0,35.0,95.2,2,2,17,0.7,1,7.3
+Desktop PC,LAB-A,None,None,65.7,58.8,79.3,100.0,1,0,52,5.6,0,
+Desktop PC,LAB-C,Network,Medium,30.6,55.5,51.3,92.5,4,1,208,1.6,1,3.5
+Network Switch,LAB-B,None,None,20.9,53.3,30.0,99.3,0,0,6,,0,
+Network Router,LAB-A,Network,Medium,31.3,39.9,52.0,100.0,2,1,13,1.4,1,5.1
+Desktop PC,LAB-A,None,None,50.0,48.5,60.3,100.0,1,0,35,3.4,0,
+Desktop PC,LAB-A,Thermal,Critical,51.8,38.5,55.9,100.0,1,2,190,1.7,1,10.1
+Desktop PC,LAB-B,None,None,31.9,97.0,44.6,98.1,3,0,81,2.6,0,
+Desktop PC,LAB-C,Other,High,30.2,59.5,28.0,96.1,2,1,126,5.8,1,7.4
+Laptop,LAB-B,None,None,21.0,57.7,65.9,100.0,0,0,22,,0,
+Desktop PC,LAB-B,None,None,5.0,95.8,56.1,95.3,3,0,266,7.1,0,
+Desktop PC,LAB-A,Software,Low,48.5,58.5,42.7,98.7,1,1,6,2.0,1,0.7
+Network Router,LAB-C,None,None,25.9,55.1,41.1,97.1,1,0,3,2.7,0,
+Desktop PC,LAB-C,Hardware,Low,48.2,66.7,59.2,100.0,1,1,106,10.1,0,3.6
+Desktop PC,LAB-A,None,None,52.1,44.3,63.8,93.2,1,0,144,7.1,0,
+Network Router,LAB-C,None,None,21.5,48.4,58.8,100.0,2,0,5,5.1,0,
+Network Switch,LAB-B,Software,Medium,42.3,72.9,39.2,99.7,0,1,7,,1,3.9
+Desktop PC,LAB-B,None,None,42.2,71.9,50.4,96.7,0,0,2,,0,
+Desktop PC,LAB-B,None,None,56.9,72.5,42.6,97.8,1,0,6,1.7,0,
+Desktop PC,LAB-C,Thermal,Critical,21.7,10.0,54.8,100.0,1,2,13,2.0,1,14.6
+Desktop PC,LAB-B,Software,Medium,50.8,16.0,47.1,90.2,2,1,193,5.0,1,3.3
+Desktop PC,LAB-A,Hardware,Medium,75.1,33.3,69.6,100.0,0,1,61,,1,6.2
+Desktop PC,LAB-A,None,None,25.2,32.3,56.9,95.0,4,0,83,0.6,0,
+Desktop PC,LAB-C,None,None,47.3,45.3,28.0,90.2,2,0,82,5.6,0,
+Desktop PC,LAB-A,None,None,50.0,43.8,44.3,100.0,1,0,42,6.5,0,
+Desktop PC,LAB-A,None,None,70.8,49.5,47.2,99.8,0,0,88,,0,
+Desktop PC,LAB-B,Hardware,Low,15.1,59.5,59.7,100.0,0,3,50,,1,3.4
+Desktop PC,LAB-B,None,None,5.0,39.8,39.7,98.3,3,0,21,2.4,0,
+Desktop PC,LAB-B,None,None,55.6,84.9,45.1,96.3,2,0,45,7.2,0,
+Desktop PC,LAB-C,None,None,70.3,60.9,69.7,99.0,3,0,42,4.0,1,
+Network Switch,LAB-A,Power,Medium,17.6,44.0,32.5,100.0,3,1,95,1.3,1,8.1
+Laptop,LAB-A,Hardware,Medium,71.1,92.0,63.8,100.0,1,1,220,3.2,1,8.5
+Laptop,LAB-A,Software,Low,32.2,31.9,63.9,99.5,2,1,29,1.9,0,1.2
+Network Router,LAB-C,None,None,36.6,64.6,51.2,100.0,2,0,79,3.5,0,
+Desktop PC,LAB-B,Network,High,73.5,65.9,63.8,99.8,2,2,6,1.2,1,8.2
+Desktop PC,LAB-A,Software,Low,34.9,70.1,32.5,100.0,2,1,82,7.5,0,0.6
+Desktop PC,LAB-C,None,None,18.7,60.7,40.2,99.9,1,0,26,4.3,0,
+Laptop,LAB-C,None,None,44.3,23.1,57.9,96.0,2,0,2,2.2,0,
+Network Router,LAB-C,None,None,48.2,60.0,52.0,97.8,0,0,25,,0,
+Desktop PC,LAB-C,None,None,32.0,45.8,64.0,100.0,1,0,52,3.5,0,
+Desktop PC,LAB-A,Software,Medium,27.3,76.5,28.0,93.8,0,1,7,,1,1.6
+Desktop PC,LAB-C,None,None,23.9,27.9,29.8,99.4,0,0,142,,0,
+Desktop PC,LAB-B,None,None,40.3,62.6,61.7,98.9,3,0,4,2.9,0,
+Laptop,LAB-C,Thermal,High,59.5,53.6,35.4,100.0,2,1,146,7.7,1,6.2
+Laptop,LAB-B,Network,Low,32.0,36.3,49.5,94.8,2,1,68,2.9,0,2.4
+Desktop PC,LAB-C,Software,Low,35.8,61.9,56.9,94.9,2,1,22,3.4,1,0.7
+Projector,LAB-B,None,None,16.1,40.7,72.9,100.0,0,0,27,,0,
+Laptop,LAB-A,None,None,71.0,77.9,32.6,100.0,1,0,74,1.1,0,
+Desktop PC,LAB-B,None,None,43.8,44.0,54.4,100.0,0,0,51,,0,
+Desktop PC,LAB-C,None,None,56.0,37.4,62.4,95.8,1,0,61,3.4,0,
+Desktop PC,LAB-C,None,None,49.8,48.9,48.9,100.0,3,0,27,3.9,0,
+Desktop PC,LAB-A,Network,Medium,22.1,93.9,28.0,95.9,1,2,37,1.4,1,4.1
+Desktop PC,LAB-A,None,None,53.1,66.7,50.6,97.8,0,0,253,,0,
+Desktop PC,LAB-A,None,None,54.0,50.4,71.5,100.0,1,0,13,4.7,0,
+Desktop PC,LAB-B,None,None,64.2,35.7,50.9,96.9,0,0,30,,0,
+Desktop PC,LAB-C,Software,Critical,22.9,62.2,44.5,100.0,1,1,19,0.6,1,7.6
+Network Switch,LAB-A,Other,Low,18.9,80.6,39.0,99.5,0,1,80,,0,2.9
+Desktop PC,LAB-B,Power,Medium,62.4,43.6,63.9,93.7,0,1,79,,1,4.0
+Desktop PC,LAB-C,None,None,76.9,55.3,43.7,97.0,3,0,19,2.7,0,
+Desktop PC,LAB-B,None,None,62.8,43.3,41.5,97.2,4,0,5,1.0,0,
+Projector,LAB-B,None,None,10.6,48.2,55.9,99.8,1,0,2,3.1,0,
+Desktop PC,LAB-B,None,None,49.6,35.3,51.9,100.0,3,0,31,2.3,0,
+Desktop PC,LAB-B,Network,Medium,40.9,78.9,66.3,100.0,0,1,29,,0,4.6
+Projector,LAB-A,Power,High,16.3,19.2,55.2,97.3,3,1,245,4.0,1,10.4
+Network Switch,LAB-B,Hardware,Medium,43.2,33.9,47.9,99.4,1,1,35,2.9,0,11.6
+Network Switch,LAB-B,Other,Low,30.8,75.5,52.2,100.0,2,2,16,4.0,0,5.4
+Desktop PC,LAB-C,Hardware,Low,40.2,73.7,74.9,100.0,3,1,122,3.1,0,3.6
+Desktop PC,LAB-B,None,None,21.0,49.9,47.2,99.7,2,0,37,5.8,0,
+Laptop,LAB-C,Network,Low,60.1,38.2,52.9,90.9,1,1,50,5.3,0,2.4
+Projector,LAB-A,None,None,31.5,24.9,65.9,95.3,1,0,6,1.8,0,
+Laptop,LAB-B,Power,Critical,70.2,10.0,51.8,97.6,1,2,27,5.5,1,14.1
+Laptop,LAB-A,None,None,35.0,89.5,39.6,100.0,2,0,159,3.8,0,
+Desktop PC,LAB-A,None,None,52.8,80.2,42.7,95.4,1,0,49,6.1,0,
+Network Router,LAB-B,Network,Medium,51.4,65.1,32.6,98.4,0,1,23,,0,5.4
+Desktop PC,LAB-C,None,None,53.5,71.8,42.5,87.8,2,0,54,1.5,0,
+Desktop PC,LAB-A,None,None,56.5,30.6,28.0,88.1,3,0,133,1.2,0,
+Desktop PC,LAB-B,None,None,62.9,57.6,48.8,100.0,5,0,18,1.2,0,
+Desktop PC,LAB-C,None,None,59.0,87.3,32.5,97.9,1,0,39,7.2,0,
+Desktop PC,LAB-A,Network,High,9.4,50.4,48.5,100.0,1,1,175,6.2,1,5.7
+Desktop PC,LAB-B,Other,High,46.0,67.5,61.8,100.0,1,1,10,5.3,1,7.3
+Laptop,LAB-B,None,None,38.1,36.2,55.4,95.2,1,0,70,1.1,0,
+Desktop PC,LAB-B,None,None,77.6,49.3,44.1,96.4,4,0,52,5.3,0,
+Laptop,LAB-A,Power,Medium,60.8,51.8,43.0,100.0,1,2,63,1.1,1,4.7
+Desktop PC,LAB-A,None,None,26.2,55.7,61.1,92.3,3,0,24,0.5,0,
+Desktop PC,LAB-C,None,None,55.6,33.9,63.5,94.6,0,0,21,,0,
+Desktop PC,LAB-B,None,None,60.2,77.1,64.1,98.9,1,0,63,2.3,0,
+Desktop PC,LAB-A,Software,Critical,39.9,43.5,72.6,95.6,1,2,13,2.7,1,9.7
+Desktop PC,LAB-C,None,None,22.2,68.3,40.9,94.7,1,0,30,6.7,0,
+Desktop PC,LAB-A,None,None,13.2,45.3,50.8,98.9,2,0,11,1.4,0,
+Desktop PC,LAB-B,None,None,65.9,65.5,49.3,97.3,3,0,2,10.5,0,
+Projector,LAB-A,None,None,24.1,42.7,67.0,94.6,3,0,193,3.4,0,
+Desktop PC,LAB-C,Hardware,Medium,23.2,26.1,61.3,100.0,2,1,31,2.8,1,6.0
+Network Switch,LAB-A,None,None,43.7,58.5,62.1,98.5,2,0,192,2.8,0,
+Desktop PC,LAB-A,None,None,66.0,54.2,43.5,100.0,2,0,8,1.2,0,
+Laptop,LAB-A,None,None,54.0,62.1,53.1,97.9,1,0,49,2.4,0,
+Network Router,LAB-A,None,None,70.8,74.2,55.2,99.4,2,0,12,3.6,0,
+Laptop,LAB-C,Software,Medium,67.2,65.4,52.4,96.9,1,1,86,5.4,1,3.0
+Desktop PC,LAB-C,Software,Medium,43.2,10.0,54.9,96.3,0,2,84,,1,3.6
+Desktop PC,LAB-A,None,None,80.0,55.4,35.4,97.8,1,0,7,2.3,0,
+Desktop PC,LAB-B,None,None,22.0,64.5,56.1,100.0,1,0,134,3.4,0,
+Projector,LAB-B,None,None,13.7,30.3,43.2,99.3,0,0,12,,0,
+Network Switch,LAB-C,Software,Medium,42.8,65.9,48.0,99.8,1,1,52,4.9,0,3.7
+Projector,LAB-B,Hardware,Low,32.8,27.1,67.2,92.2,1,1,233,2.3,1,4.0
+Desktop PC,LAB-A,None,None,25.9,57.0,67.5,97.1,3,0,118,5.6,0,
+Network Router,LAB-B,Software,Medium,31.5,55.1,42.7,99.6,1,1,173,4.3,1,4.8
+Projector,LAB-B,Hardware,Medium,8.0,42.8,54.4,99.4,1,2,23,5.1,1,6.1
+Desktop PC,LAB-A,Hardware,High,17.1,68.4,61.4,99.3,1,1,6,0.7,0,8.3
+Desktop PC,LAB-B,None,None,23.1,60.0,35.4,97.1,1,0,11,2.5,0,
+Network Router,LAB-A,None,None,50.4,69.6,48.2,97.7,1,0,38,1.9,0,
+Laptop,LAB-C,None,None,59.2,55.4,28.0,100.0,3,0,87,0.6,0,
+Network Switch,LAB-A,Software,High,34.6,74.4,37.0,94.4,3,1,9,5.3,1,7.0
+Desktop PC,LAB-B,Thermal,Medium,51.1,60.8,28.3,94.6,1,1,59,0.9,1,3.5
+Network Router,LAB-B,Thermal,High,76.3,56.3,55.3,98.2,2,1,22,6.8,1,8.0
+Desktop PC,LAB-B,None,None,5.0,51.6,48.3,96.6,2,0,23,2.9,0,
+Desktop PC,LAB-A,None,None,42.5,60.3,49.9,93.6,5,0,60,4.1,0,
+Desktop PC,LAB-B,None,None,55.7,16.0,28.0,100.0,2,0,35,2.0,0,
+Network Switch,LAB-B,Power,Medium,42.6,59.3,34.0,98.1,2,1,92,5.6,1,4.8
+Laptop,LAB-B,None,None,39.2,23.1,41.7,100.0,4,0,9,2.9,0,
+Desktop PC,LAB-B,None,None,76.4,46.6,62.6,91.3,0,0,86,,0,
+Desktop PC,LAB-B,Hardware,Low,59.5,38.9,56.3,97.1,4,1,4,4.2,0,4.8
+Network Switch,LAB-C,None,None,54.8,49.5,54.3,98.8,2,0,12,6.0,0,
+Desktop PC,LAB-A,None,None,41.5,51.3,40.2,98.0,0,0,59,,0,
+Network Switch,LAB-C,None,None,34.1,62.9,48.8,100.0,0,0,106,,0,
+Desktop PC,LAB-B,Hardware,Low,65.3,34.0,64.2,93.8,6,2,16,4.6,1,3.5
+Desktop PC,LAB-A,Hardware,Medium,57.9,67.4,28.0,98.3,0,2,22,,1,5.4
+Desktop PC,LAB-A,Network,High,34.7,39.8,70.9,95.7,3,1,42,2.3,1,4.8
+Desktop PC,LAB-A,None,None,27.3,56.5,61.6,97.5,1,0,13,2.9,0,
+Network Router,LAB-C,Software,High,52.5,66.4,30.0,98.4,1,1,92,5.2,1,4.3
+Desktop PC,LAB-B,Network,Critical,32.6,64.6,28.0,100.0,0,1,82,,1,15.6
+Desktop PC,LAB-C,Software,Low,56.7,58.0,68.5,100.0,1,1,9,0.5,1,0.9
+Network Switch,LAB-B,Hardware,Medium,48.1,71.4,49.3,99.0,1,1,34,2.5,0,6.6
+Desktop PC,LAB-B,None,None,34.5,38.5,42.4,93.3,1,0,82,3.1,0,
+Desktop PC,LAB-A,None,None,43.3,21.3,54.7,97.9,2,0,23,3.7,0,
+Projector,LAB-A,None,None,21.2,24.8,98.0,100.0,3,0,55,2.0,1,
+Laptop,LAB-B,Software,Medium,17.6,59.7,43.5,94.4,0,2,3,,0,3.7
+Desktop PC,LAB-A,Hardware,High,15.5,63.6,42.5,100.0,2,2,52,2.8,1,11.2
+Projector,LAB-A,Hardware,Critical,28.0,43.7,51.4,98.4,2,1,9,3.4,1,10.7
+Laptop,LAB-B,None,None,58.9,45.5,41.2,100.0,3,0,98,3.4,0,
+Desktop PC,LAB-B,None,None,50.0,67.7,40.5,93.7,0,0,24,,0,
+Desktop PC,LAB-C,None,None,32.5,52.5,37.1,98.0,1,0,18,3.3,0,
+Network Router,LAB-C,Other,Low,9.7,46.6,54.7,100.0,0,1,101,,0,3.3
+Laptop,LAB-B,None,None,36.4,34.6,37.6,96.7,3,0,3,2.4,0,
+Desktop PC,LAB-B,Hardware,Low,59.2,73.6,45.0,94.0,1,1,28,3.5,0,2.7
+Network Switch,LAB-B,None,None,39.0,50.1,42.8,100.0,1,0,25,6.6,0,
+Network Router,LAB-C,None,None,47.4,61.9,35.3,99.5,4,0,18,2.9,0,
+Desktop PC,LAB-A,Network,High,68.4,47.5,70.9,100.0,2,1,134,3.5,1,5.5
+Desktop PC,LAB-B,None,None,81.6,61.1,60.2,100.0,6,0,76,2.8,0,
+Desktop PC,LAB-C,None,None,54.8,45.0,45.7,98.8,1,0,4,6.4,0,
+Network Router,LAB-A,None,None,15.6,58.3,59.0,95.9,1,0,69,2.5,0,
+Desktop PC,LAB-B,None,None,78.8,77.4,45.6,99.9,2,0,41,1.6,0,
+Laptop,LAB-B,Software,High,45.1,79.6,65.8,93.1,2,1,127,4.7,1,6.9
+Network Router,LAB-A,Network,Medium,43.8,57.5,48.8,98.1,1,1,21,2.4,1,6.2
+Network Switch,LAB-A,None,None,61.2,72.5,40.6,97.2,2,0,47,4.5,0,
+Desktop PC,LAB-A,Power,High,36.5,63.7,55.4,100.0,3,1,38,2.2,1,8.5
+Network Switch,LAB-A,None,None,46.8,71.6,51.3,97.1,2,0,37,1.3,0,
+Desktop PC,LAB-A,Hardware,Medium,40.7,76.2,51.3,99.8,0,1,33,,0,4.0
+Network Switch,LAB-C,Hardware,Low,30.2,47.6,46.8,99.7,1,1,13,2.9,0,4.1
+Desktop PC,LAB-A,Network,Medium,30.6,50.3,38.8,100.0,1,2,78,1.0,1,5.4
+Desktop PC,LAB-B,None,None,38.5,84.1,73.4,97.7,1,0,33,3.6,0,
+Network Router,LAB-A,None,None,19.9,35.0,33.3,97.1,0,0,175,,0,
+Desktop PC,LAB-C,None,None,75.3,57.3,57.5,90.2,1,0,17,5.0,0,
+Desktop PC,LAB-A,Thermal,Low,18.6,72.7,56.0,97.5,2,1,63,8.7,0,2.1
+Network Router,LAB-B,None,None,43.5,79.6,45.8,99.3,1,0,155,2.1,0,
+Network Router,LAB-C,None,None,37.9,88.7,30.0,100.0,1,0,60,1.8,0,
+Laptop,LAB-C,Other,High,42.5,66.3,42.8,97.8,1,2,113,5.0,1,11.0
+Laptop,LAB-A,None,None,60.7,100.0,63.3,95.0,2,0,97,4.7,1,
+Desktop PC,LAB-C,None,None,35.7,45.9,28.0,96.8,0,0,25,,0,
+Desktop PC,LAB-B,None,None,61.1,29.5,66.7,99.7,0,0,50,,0,
+Desktop PC,LAB-B,None,None,28.8,52.2,74.4,100.0,0,0,9,,0,
+Desktop PC,LAB-A,None,None,45.2,50.2,53.1,96.2,2,0,42,4.9,0,
+Projector,LAB-A,None,None,5.0,50.4,67.5,98.1,1,0,14,8.8,0,
+Laptop,LAB-B,None,None,43.7,40.3,49.4,92.4,2,0,75,3.1,0,
+Desktop PC,LAB-B,None,None,95.1,30.3,37.6,96.5,0,0,41,,0,
+Desktop PC,LAB-B,Network,Low,73.3,55.3,34.7,100.0,1,3,29,9.9,1,2.5
+Projector,LAB-B,None,None,25.8,35.4,76.5,100.0,2,0,17,2.4,0,
+Desktop PC,LAB-C,Hardware,Low,93.1,41.3,74.7,99.3,3,1,365,1.9,1,2.8
+Laptop,LAB-A,None,None,56.0,21.2,49.6,95.2,3,0,4,1.8,0,
+Desktop PC,LAB-B,None,None,63.2,76.4,28.0,97.9,2,0,2,1.7,0,
+Laptop,LAB-A,Hardware,High,69.7,51.3,62.2,99.2,0,1,13,,1,7.3
+Desktop PC,LAB-C,None,None,52.5,49.6,35.0,94.1,1,0,195,9.1,0,
+Network Switch,LAB-B,None,None,45.6,60.2,46.6,98.6,3,0,213,6.2,0,
+Projector,LAB-C,Software,Critical,17.6,40.5,59.6,91.1,2,1,59,8.6,1,5.2
+Laptop,LAB-A,Power,High,61.4,50.9,52.4,100.0,0,1,117,,1,5.6
+Laptop,LAB-A,None,None,44.5,60.8,35.5,97.2,2,0,13,0.7,0,
+Projector,LAB-A,None,None,24.9,14.4,68.2,96.9,4,0,197,1.1,1,
+Network Router,LAB-A,Software,Medium,35.6,72.4,51.3,100.0,3,1,8,2.5,1,4.2
+Desktop PC,LAB-A,Network,Medium,23.1,57.7,53.2,94.3,1,2,6,2.2,1,5.2
+Laptop,LAB-C,None,None,66.0,100.0,51.8,99.8,3,0,7,3.5,1,
+Laptop,LAB-A,None,None,46.9,40.7,28.0,95.5,0,0,47,,0,
+Desktop PC,LAB-A,None,None,14.4,89.1,50.4,96.8,3,0,84,3.1,0,
+Network Router,LAB-C,None,None,48.3,46.5,40.3,99.3,1,0,25,1.4,0,
+Projector,LAB-B,None,None,28.2,35.0,69.0,96.8,1,0,210,2.0,0,
+Projector,LAB-C,None,None,23.2,32.0,48.5,96.7,4,0,31,2.6,0,
+Desktop PC,LAB-A,None,None,21.4,56.6,45.3,100.0,2,0,9,1.3,0,
+Desktop PC,LAB-B,None,None,44.1,26.9,50.1,99.8,5,0,35,2.8,0,
+Projector,LAB-A,Hardware,High,33.4,24.1,39.7,99.8,3,2,63,1.3,1,15.4
+Network Switch,LAB-A,None,None,14.3,54.8,45.4,99.1,2,0,98,2.7,0,
+Desktop PC,LAB-C,None,None,60.2,41.3,48.2,98.0,0,0,34,,0,
+Projector,LAB-A,None,None,21.2,31.0,72.0,99.9,2,0,50,1.6,1,
+Network Switch,LAB-B,Thermal,High,40.9,65.4,32.2,99.3,2,2,17,5.3,1,13.7
+Desktop PC,LAB-B,Other,Medium,55.5,69.6,42.3,95.7,2,1,57,3.9,1,3.9
+Laptop,LAB-A,Hardware,Critical,32.4,65.7,66.5,96.6,2,1,235,3.9,1,13.3
+Desktop PC,LAB-C,None,None,65.0,57.5,50.3,97.3,1,0,3,4.7,0,
+Desktop PC,LAB-A,Power,Low,61.4,61.5,83.9,95.0,1,1,120,4.1,1,3.0
+Desktop PC,LAB-B,None,None,56.4,44.4,39.8,98.0,2,0,45,5.3,0,
+Network Switch,LAB-C,None,None,37.1,95.0,46.2,97.5,4,0,16,3.3,0,
+Desktop PC,LAB-B,Power,High,51.0,13.5,50.7,98.1,1,2,170,4.6,1,4.4
+Desktop PC,LAB-C,Software,Low,62.5,74.5,45.0,97.5,1,1,36,3.8,0,0.6
+Desktop PC,LAB-A,Hardware,Medium,28.1,32.4,56.3,93.5,3,1,22,3.8,1,5.3
+Desktop PC,LAB-B,Hardware,Low,35.9,35.1,59.7,100.0,0,1,11,,0,4.0
+Projector,LAB-A,Software,Medium,9.6,11.5,63.0,96.6,1,2,15,0.9,1,5.7
+Desktop PC,LAB-B,None,None,49.8,46.1,49.2,99.3,5,0,98,1.4,0,
+Desktop PC,LAB-C,None,None,67.9,15.9,46.8,98.7,1,0,52,3.5,0,
+Network Router,LAB-A,None,None,21.2,80.8,41.6,99.1,2,0,134,1.8,0,
+Desktop PC,LAB-B,Network,Critical,57.2,43.2,28.0,96.5,1,1,15,2.9,1,8.4
+Desktop PC,LAB-A,None,None,67.6,48.3,40.1,100.0,4,0,7,2.1,0,
+Desktop PC,LAB-B,Hardware,Critical,37.7,44.8,54.1,100.0,4,1,2,2.1,1,14.8
+Desktop PC,LAB-B,None,None,97.4,71.5,68.2,96.2,0,0,39,,0,
+Desktop PC,LAB-C,None,None,22.4,56.2,53.5,94.2,7,0,351,3.1,1,
+Desktop PC,LAB-B,None,None,41.1,63.0,57.0,99.8,2,0,65,2.5,0,
+Desktop PC,LAB-A,None,None,51.4,44.9,44.8,93.8,2,0,20,6.7,0,
+Projector,LAB-A,Hardware,Low,34.3,30.1,61.4,92.8,1,1,115,1.0,1,7.1
+Desktop PC,LAB-A,None,None,100.0,33.5,46.0,99.5,3,0,84,4.3,0,
+Laptop,LAB-A,None,None,58.2,74.2,77.3,99.8,0,0,2,,0,
+Laptop,LAB-A,None,None,21.8,49.9,56.3,100.0,1,0,93,4.8,0,
+Desktop PC,LAB-C,None,None,14.2,79.1,54.5,100.0,0,0,20,,0,
+Laptop,LAB-B,None,None,42.8,38.2,62.5,100.0,1,0,9,7.0,0,
+Desktop PC,LAB-B,None,None,66.4,54.7,43.6,92.5,1,0,14,3.1,0,
+Projector,LAB-A,Other,Medium,26.6,34.2,49.5,94.3,0,1,35,,1,6.3
+Desktop PC,LAB-C,None,None,34.7,25.3,40.6,94.0,3,0,30,4.5,0,
+Desktop PC,LAB-B,None,None,35.9,40.2,29.2,100.0,1,0,19,6.7,0,
+Desktop PC,LAB-A,Other,Medium,72.6,39.4,55.8,99.5,2,2,10,2.0,1,6.0
+Projector,LAB-B,None,None,29.5,21.8,82.5,94.3,1,0,79,1.6,0,
+Desktop PC,LAB-B,None,None,15.6,69.5,70.1,100.0,1,0,254,3.2,0,
+Laptop,LAB-A,None,None,18.6,69.0,46.3,100.0,1,0,83,2.6,0,
+Desktop PC,LAB-B,None,None,12.6,29.7,41.1,98.3,1,0,19,4.6,0,
+Network Router,LAB-B,Hardware,Medium,25.4,67.9,58.3,100.0,1,1,15,1.1,0,5.4
+Desktop PC,LAB-A,None,None,80.6,63.3,35.0,100.0,5,0,14,6.4,1,
+Network Switch,LAB-C,Network,Medium,25.9,70.9,63.7,99.9,0,1,8,,0,6.8
+Desktop PC,LAB-C,Software,High,12.1,36.6,70.5,97.4,1,2,44,3.6,1,6.5
+Desktop PC,LAB-B,None,None,46.8,70.2,61.7,99.0,1,0,51,2.5,0,
+Desktop PC,LAB-B,None,None,40.4,48.7,64.0,99.9,2,0,67,3.0,0,
+Desktop PC,LAB-B,None,None,39.3,76.6,50.2,95.0,1,0,63,5.5,0,
+Laptop,LAB-B,None,None,28.3,35.4,48.2,100.0,1,0,19,4.1,0,
+Desktop PC,LAB-B,Hardware,Low,27.3,58.8,42.8,97.1,3,2,22,3.0,1,5.2
+Network Router,LAB-A,Hardware,Medium,12.3,57.4,46.1,100.0,1,1,63,2.6,0,6.8
+Desktop PC,LAB-B,None,None,49.9,31.0,67.2,98.7,0,0,24,,0,
+Desktop PC,LAB-C,None,None,49.4,54.8,44.8,98.8,1,0,13,2.7,0,
+Desktop PC,LAB-B,None,None,55.5,20.1,44.5,97.1,1,0,26,4.5,0,
+Desktop PC,LAB-A,Software,Critical,50.6,78.9,41.2,96.3,3,1,17,2.5,1,8.8
+Laptop,LAB-C,Software,Low,33.7,39.0,47.1,100.0,1,1,5,4.2,1,1.1
+Desktop PC,LAB-A,Software,Critical,21.8,63.6,28.2,96.0,2,1,98,1.6,1,8.9
+Desktop PC,LAB-A,None,None,37.8,88.5,48.2,90.3,2,0,105,1.8,0,
+Network Switch,LAB-A,Hardware,Medium,5.0,60.4,54.1,99.8,1,1,14,3.0,0,8.2
+Projector,LAB-A,None,None,21.3,41.6,56.4,100.0,1,0,4,2.6,0,
+Desktop PC,LAB-C,None,None,9.1,36.9,28.0,97.0,0,0,74,,0,
+Desktop PC,LAB-B,None,None,44.0,57.3,52.9,94.8,0,0,13,,0,
+Laptop,LAB-A,None,None,40.8,25.1,71.1,96.9,1,0,27,1.9,0,
+Desktop PC,LAB-C,Hardware,Medium,34.2,86.8,34.6,94.1,2,1,4,1.3,0,4.7
+Desktop PC,LAB-C,Software,Medium,20.9,53.6,58.0,100.0,3,1,14,1.7,1,3.3
+Desktop PC,LAB-C,None,None,100.0,10.0,60.5,96.1,2,0,87,7.4,0,
+Network Router,LAB-A,Hardware,Critical,26.2,52.6,38.9,100.0,1,1,90,1.9,1,15.3
+Laptop,LAB-B,None,None,63.5,55.5,70.9,92.7,1,0,13,3.1,0,
+Desktop PC,LAB-C,Power,Medium,15.7,11.4,42.2,98.6,2,1,23,1.9,1,4.5
+Desktop PC,LAB-C,Software,Medium,47.3,58.0,32.2,100.0,0,1,8,,0,3.7
+Desktop PC,LAB-A,None,None,50.3,69.7,28.0,99.1,2,0,4,2.5,0,
+Laptop,LAB-A,Software,Critical,18.9,47.1,59.5,98.3,3,1,267,5.1,1,8.9
+Desktop PC,LAB-B,None,None,26.3,55.1,30.6,100.0,2,0,59,2.6,0,
+Desktop PC,LAB-C,None,None,40.5,77.4,44.6,96.2,2,0,43,2.4,0,
+Network Router,LAB-B,Hardware,Medium,23.5,70.5,40.9,100.0,1,1,80,2.0,0,9.0
+Desktop PC,LAB-B,Power,Low,36.6,15.5,44.0,93.9,2,2,101,2.5,0,4.7
+Laptop,LAB-A,Hardware,Medium,45.7,31.2,65.0,97.7,1,2,90,3.8,1,7.0
+Desktop PC,LAB-B,Thermal,Critical,41.1,68.1,65.5,97.9,4,1,2,0.7,1,8.7
+Desktop PC,LAB-C,None,None,28.0,19.5,42.4,95.8,1,0,11,1.2,0,
+Desktop PC,LAB-A,None,None,47.4,48.1,61.6,95.9,2,0,59,3.9,0,
+Network Router,LAB-C,Hardware,Critical,34.1,74.2,51.4,99.1,2,2,26,3.1,1,13.6
+Network Switch,LAB-C,None,None,26.0,52.4,39.5,98.4,0,0,222,,0,
+Network Switch,LAB-A,Hardware,Medium,46.3,57.3,34.5,100.0,1,1,60,2.0,1,6.1
+Desktop PC,LAB-B,None,None,52.0,26.9,45.8,98.4,2,0,172,4.0,0,
+Laptop,LAB-A,Network,Medium,82.5,32.8,65.7,100.0,2,1,12,2.3,1,3.4
+Desktop PC,LAB-C,None,None,31.2,49.4,37.5,97.3,2,0,110,5.1,0,
+Desktop PC,LAB-B,Hardware,Medium,44.2,68.2,67.3,95.4,1,2,21,2.0,1,6.1
+Network Switch,LAB-B,Hardware,Medium,5.5,59.7,50.9,99.6,4,2,251,1.6,1,6.2
+Desktop PC,LAB-C,Software,High,37.8,57.5,73.2,99.3,5,1,9,11.4,1,5.9
+Desktop PC,LAB-A,None,None,36.8,45.0,49.6,100.0,2,0,40,4.5,0,
+Desktop PC,LAB-C,Thermal,Low,41.0,54.6,45.2,100.0,1,1,87,1.7,0,3.6
+Desktop PC,LAB-B,Hardware,Medium,88.1,64.0,53.2,98.1,2,1,31,2.3,1,3.8
+Desktop PC,LAB-A,Other,High,5.0,69.9,53.9,99.5,3,1,35,2.0,1,9.2
+Laptop,LAB-B,Thermal,Medium,29.3,47.3,46.2,100.0,0,1,236,,1,4.8
+Desktop PC,LAB-C,None,None,36.7,96.7,58.0,93.5,1,0,30,0.9,0,
+Network Switch,LAB-A,None,None,33.1,52.2,30.0,100.0,4,0,51,2.4,0,
+Network Switch,LAB-C,None,None,45.5,66.4,49.7,97.1,2,0,3,3.3,0,
+Desktop PC,LAB-C,None,None,34.4,71.8,37.3,89.1,2,0,102,6.5,0,
+Desktop PC,LAB-A,Network,Medium,40.0,52.2,53.9,100.0,4,1,57,2.8,0,3.1
+Desktop PC,LAB-C,None,None,59.0,60.2,68.7,92.7,1,0,28,2.2,0,
+Laptop,LAB-A,None,None,56.1,67.5,34.6,92.7,2,0,2,7.0,0,
+Desktop PC,LAB-A,None,None,28.6,41.8,62.5,95.8,2,0,49,6.1,0,
+Laptop,LAB-A,None,None,26.2,42.8,67.7,98.0,3,0,2,3.3,0,
+Desktop PC,LAB-C,None,None,41.1,52.8,70.1,95.4,0,0,2,,0,
+Laptop,LAB-B,None,None,73.9,59.2,49.8,100.0,1,0,53,3.1,0,
+Desktop PC,LAB-A,None,None,21.8,47.9,34.7,100.0,1,0,12,3.8,0,
+Desktop PC,LAB-B,None,None,82.2,88.4,69.1,97.3,2,0,12,2.0,0,
+Projector,LAB-B,Hardware,Medium,17.1,13.3,97.6,98.4,0,2,58,,1,9.5
+Network Router,LAB-A,None,None,27.6,75.9,38.3,99.8,2,0,3,3.0,0,
+Desktop PC,LAB-C,None,None,41.2,67.8,51.1,92.9,2,0,21,1.9,0,
+Network Switch,LAB-C,Thermal,Critical,36.1,72.6,47.7,100.0,1,1,9,6.3,1,10.8
+Desktop PC,LAB-B,Network,Medium,22.0,54.5,43.3,100.0,2,1,48,1.6,0,3.9
+Network Switch,LAB-C,Thermal,Critical,35.5,68.3,58.9,100.0,2,1,60,3.4,1,10.9
+Network Router,LAB-B,Hardware,High,39.1,48.0,48.0,98.4,1,2,70,3.5,1,8.1
+Desktop PC,LAB-C,None,None,37.4,47.5,38.3,91.1,2,0,16,6.6,0,
+Desktop PC,LAB-B,Software,Medium,30.3,58.9,33.1,98.1,1,2,5,2.2,1,4.6
+Desktop PC,LAB-B,None,None,86.8,75.5,75.0,99.4,2,0,5,1.9,0,
+Desktop PC,LAB-A,None,None,70.7,40.5,43.0,88.4,0,0,31,,0,
+Laptop,LAB-C,Network,Critical,71.1,85.8,44.3,97.1,0,2,160,,1,11.5
+Desktop PC,LAB-B,None,None,28.4,62.7,67.7,91.9,1,0,14,4.3,0,
+Desktop PC,LAB-A,Power,High,54.0,49.5,53.6,99.6,1,1,16,4.0,1,5.1
+Network Switch,LAB-A,Thermal,Medium,32.2,58.8,45.9,100.0,3,1,6,8.7,0,6.4
+Projector,LAB-B,None,None,23.4,32.2,44.7,95.0,1,0,51,3.3,0,
+Desktop PC,LAB-B,Hardware,Medium,64.8,55.8,61.2,100.0,2,1,63,6.2,0,3.8
+Desktop PC,LAB-B,None,None,67.8,56.9,44.8,89.1,0,0,57,,0,
+Desktop PC,LAB-C,None,None,41.3,48.5,57.5,97.5,1,0,109,5.8,0,
+Desktop PC,LAB-A,Thermal,Medium,38.0,19.4,38.8,99.7,2,1,37,1.9,0,3.3
+Projector,LAB-B,None,None,33.7,29.0,70.2,100.0,0,0,8,,0,
+Desktop PC,LAB-A,Hardware,High,27.2,62.3,41.6,100.0,2,1,19,1.0,1,10.4
+Laptop,LAB-C,None,None,48.3,61.0,41.0,100.0,2,0,60,2.4,0,
+Desktop PC,LAB-C,None,None,90.9,34.8,47.2,98.8,0,0,52,,0,
+Laptop,LAB-B,Network,Medium,62.3,43.8,28.0,100.0,1,3,42,5.0,1,5.2
+Laptop,LAB-B,Hardware,High,61.7,20.1,43.5,100.0,3,1,63,6.6,1,4.7
+Network Switch,LAB-A,None,None,56.7,71.3,46.2,99.3,2,0,56,0.5,0,
+Desktop PC,LAB-B,None,None,42.1,77.6,39.7,95.2,2,0,117,1.6,0,
+Desktop PC,LAB-C,Network,Critical,67.2,54.1,71.3,95.6,1,1,49,3.8,1,12.3
+Desktop PC,LAB-B,None,None,43.8,36.6,52.1,92.8,0,0,83,,0,
+Projector,LAB-A,Power,Critical,16.1,15.6,76.1,99.4,0,2,16,,1,13.0
+Network Switch,LAB-B,None,None,9.0,76.0,73.0,99.3,2,0,62,4.4,0,
+Laptop,LAB-C,Network,Low,30.9,100.0,33.5,98.1,1,3,128,1.5,1,4.9
+Laptop,LAB-A,Power,Low,49.0,81.9,57.0,96.3,1,1,27,1.9,0,3.3
+Laptop,LAB-A,None,None,24.1,48.2,37.9,98.2,3,0,83,0.8,0,
+Desktop PC,LAB-B,Hardware,High,32.6,25.1,69.6,96.3,1,1,71,7.5,1,8.2
+Projector,LAB-C,Software,Low,9.9,28.3,66.1,89.5,0,1,3,,1,1.9
+Desktop PC,LAB-A,Hardware,Medium,52.3,34.1,76.0,99.8,4,1,48,3.4,1,7.5
+Desktop PC,LAB-A,None,None,36.2,40.1,50.5,100.0,2,0,8,1.9,0,
+Desktop PC,LAB-A,Network,Medium,44.4,50.7,52.8,95.9,1,1,188,5.9,1,2.8
+Desktop PC,LAB-A,Hardware,High,37.4,13.3,65.6,99.0,1,1,92,3.4,1,8.6
+Desktop PC,LAB-B,Hardware,High,28.0,93.0,53.2,94.4,0,1,6,,1,9.0
+Network Router,LAB-B,Hardware,Low,47.9,64.8,51.9,98.6,2,1,7,6.6,0,3.6
+Desktop PC,LAB-B,None,None,54.9,49.8,59.8,91.3,2,0,50,7.1,0,
+Laptop,LAB-B,Power,Medium,35.5,89.4,41.3,95.9,4,2,23,1.5,1,5.1
+Desktop PC,LAB-A,None,None,35.1,30.7,28.0,97.2,2,0,2,6.2,0,
+Desktop PC,LAB-C,None,None,48.0,53.9,50.0,98.2,2,0,43,6.0,0,
+Desktop PC,LAB-B,None,None,67.5,51.2,44.0,97.0,1,0,27,4.0,0,
+Desktop PC,LAB-C,None,None,57.7,83.2,43.2,98.3,0,0,6,,0,
+Network Router,LAB-B,None,None,40.1,48.1,48.2,97.0,0,0,89,,0,
+Desktop PC,LAB-A,None,None,6.1,62.3,46.6,98.7,5,0,136,4.2,1,
+Laptop,LAB-B,None,None,44.6,35.5,51.4,93.7,4,0,78,3.3,0,
+Desktop PC,LAB-A,Hardware,Medium,75.6,27.9,49.3,94.4,2,1,95,1.3,1,6.7
+Laptop,LAB-B,None,None,57.5,48.4,44.7,100.0,1,0,13,1.2,0,
+Projector,LAB-A,None,None,20.2,35.2,49.3,90.9,0,0,17,,0,
+Network Router,LAB-A,None,None,36.6,56.2,54.3,99.1,4,0,13,7.7,0,
+Desktop PC,LAB-C,None,None,49.5,22.5,78.4,97.4,3,0,80,3.4,0,
+Desktop PC,LAB-A,None,None,60.3,38.3,56.3,93.4,4,0,163,2.6,0,
+Desktop PC,LAB-C,Software,Low,54.9,47.9,52.4,100.0,2,1,69,4.4,0,0.6
+Laptop,LAB-A,Software,Medium,17.9,41.3,58.4,100.0,3,1,117,1.8,0,2.7
+Desktop PC,LAB-B,Software,High,42.0,66.8,50.5,100.0,0,1,56,,1,6.4
+Desktop PC,LAB-B,Power,Medium,6.6,56.9,29.2,89.2,2,1,27,2.2,1,4.8
+Laptop,LAB-B,None,None,51.5,57.8,48.0,97.6,1,0,31,3.1,0,
+Desktop PC,LAB-A,None,None,100.0,49.8,59.1,95.7,4,0,4,2.1,0,
+Network Router,LAB-A,None,None,39.4,57.1,43.9,100.0,2,0,2,4.1,0,
+Desktop PC,LAB-A,Network,Critical,70.9,57.7,28.0,96.7,4,1,65,2.8,1,6.7
+Desktop PC,LAB-A,None,None,100.0,50.4,67.4,100.0,1,0,32,4.1,0,
+Network Router,LAB-B,Hardware,Medium,38.3,49.9,30.0,100.0,1,1,44,4.3,0,9.6
+Desktop PC,LAB-C,None,None,27.1,58.5,34.5,97.1,0,0,45,,0,
+Laptop,LAB-C,None,None,45.7,60.4,36.4,100.0,0,0,18,,0,
+Desktop PC,LAB-C,Other,Medium,31.9,21.5,50.5,98.1,0,2,36,,1,4.1
+Desktop PC,LAB-C,Network,Medium,48.5,82.2,48.7,97.6,3,1,35,5.9,0,3.6
+Network Switch,LAB-B,Thermal,High,18.5,69.8,49.8,98.6,2,1,27,2.4,1,8.6
+Network Router,LAB-A,Software,Medium,6.4,77.3,35.7,98.3,2,1,95,1.4,0,4.2
+Laptop,LAB-C,Software,Low,52.9,31.1,31.1,90.6,2,1,33,10.8,0,2.3
+Desktop PC,LAB-B,Software,High,60.9,44.1,93.0,94.5,0,1,51,,1,3.4
+Laptop,LAB-B,Software,Medium,24.7,43.7,55.4,96.4,0,1,124,,1,3.9
+Desktop PC,LAB-A,None,None,58.5,35.4,32.7,91.7,1,0,111,6.6,0,
+Desktop PC,LAB-B,Other,High,5.0,44.6,47.8,95.8,1,1,122,0.8,1,7.2
+Projector,LAB-B,Power,Medium,29.9,42.3,59.6,89.3,2,1,17,11.8,1,6.1
+Desktop PC,LAB-C,None,None,32.5,43.0,42.8,95.6,1,0,2,2.0,0,
+Projector,LAB-B,Hardware,Low,14.8,26.1,54.8,97.3,1,3,17,2.8,1,8.9
+Desktop PC,LAB-A,Thermal,Low,52.9,36.8,69.8,94.6,0,1,18,,0,3.3
+Desktop PC,LAB-C,None,None,9.4,62.6,40.6,99.1,3,0,132,1.3,0,
+Desktop PC,LAB-A,None,None,5.0,82.8,61.4,92.7,2,0,58,3.2,0,
+Network Switch,LAB-B,None,None,12.8,80.1,40.6,97.9,3,0,5,2.0,0,
+Network Router,LAB-A,Hardware,Critical,5.0,55.8,45.7,100.0,2,1,8,1.3,1,9.0
+Network Switch,LAB-B,Thermal,Medium,14.0,41.8,52.5,100.0,1,1,9,1.1,1,8.7
+Laptop,LAB-C,None,None,10.4,76.6,52.5,100.0,2,0,55,1.7,0,
+Laptop,LAB-A,None,None,43.5,10.0,49.9,100.0,2,0,73,4.6,0,
+Network Switch,LAB-C,None,None,21.6,55.3,46.2,94.9,3,0,108,4.1,0,
+Desktop PC,LAB-A,Other,Critical,81.8,37.0,59.1,97.7,0,1,155,,1,6.8
+Desktop PC,LAB-C,None,None,72.7,63.1,48.7,94.9,2,0,12,1.5,0,
+Desktop PC,LAB-C,None,None,62.6,17.5,61.0,94.2,2,0,20,2.4,0,
+Projector,LAB-C,Hardware,Medium,30.0,31.6,75.3,96.8,0,1,15,,0,5.0
+Projector,LAB-A,None,None,6.0,21.4,75.8,97.2,3,0,24,5.3,0,
+Desktop PC,LAB-C,None,None,71.0,63.1,38.5,95.2,2,0,135,2.4,0,
+Network Router,LAB-B,None,None,36.5,32.2,64.7,99.9,1,0,47,6.7,0,
+Projector,LAB-A,None,None,29.8,14.2,84.9,100.0,2,0,74,10.1,0,
+Desktop PC,LAB-C,None,None,15.9,70.4,52.0,92.6,3,0,37,1.8,0,
+Laptop,LAB-A,Software,Medium,55.8,71.7,43.6,100.0,2,1,2,1.9,1,3.0
+Projector,LAB-C,Power,High,6.7,15.1,67.2,96.6,2,1,4,7.3,1,14.2
+Desktop PC,LAB-A,Network,Medium,29.2,71.2,59.4,100.0,0,1,42,,0,3.7
+Laptop,LAB-B,Hardware,Medium,42.3,67.1,45.8,100.0,2,1,70,2.4,0,5.8
+Desktop PC,LAB-B,None,None,27.1,97.1,52.5,93.2,3,0,13,5.5,0,
+Projector,LAB-A,None,None,30.9,31.3,78.6,100.0,1,0,70,3.4,0,
+Projector,LAB-A,None,None,22.7,24.1,80.6,96.5,2,0,92,2.6,1,
+Projector,LAB-A,Software,High,25.5,10.0,72.2,93.9,2,1,29,4.5,1,9.4
+Desktop PC,LAB-B,Hardware,Medium,81.4,67.5,55.4,99.7,2,1,75,7.3,1,4.8
+Network Switch,LAB-A,None,None,20.0,79.5,67.9,99.8,3,0,28,6.1,0,
+Network Switch,LAB-B,None,None,58.9,53.2,40.0,99.3,2,0,62,2.9,0,
+Desktop PC,LAB-A,None,None,54.6,47.1,59.5,99.1,3,0,79,3.5,0,
+Network Switch,LAB-A,None,None,20.0,66.2,56.6,99.5,1,0,265,5.6,1,
+Desktop PC,LAB-B,Hardware,High,70.4,30.7,58.6,93.9,1,3,23,3.6,1,7.5
+Laptop,LAB-A,None,None,20.5,42.4,38.8,96.1,0,0,29,,0,
+Desktop PC,LAB-C,Power,Medium,40.3,71.7,47.5,92.5,6,1,10,8.0,1,4.3
+Desktop PC,LAB-C,None,None,70.1,38.3,51.2,99.6,2,0,13,0.5,0,
+Desktop PC,LAB-B,Thermal,Medium,49.4,76.9,58.7,95.0,6,1,65,1.8,1,6.2
+Laptop,LAB-B,Network,Low,92.9,58.9,49.9,100.0,1,1,137,4.2,1,2.9
+Desktop PC,LAB-C,Network,Critical,50.5,63.0,86.9,97.0,2,2,28,2.2,1,19.0
+Network Router,LAB-A,None,None,30.2,61.4,58.7,96.9,1,0,11,7.5,0,
+Desktop PC,LAB-A,None,None,5.0,43.3,29.1,96.5,0,0,18,,0,
+Desktop PC,LAB-A,None,None,56.1,37.2,32.0,98.2,2,0,33,1.9,0,
+Desktop PC,LAB-C,None,None,64.0,21.1,63.5,100.0,2,0,19,3.2,0,
+Network Router,LAB-A,Hardware,Medium,49.3,74.6,70.0,98.7,2,2,15,1.7,1,8.9
+Desktop PC,LAB-B,Software,Critical,47.4,46.7,52.0,100.0,3,2,73,2.8,1,8.8
+Laptop,LAB-C,None,None,15.4,37.8,71.3,100.0,0,0,2,,0,
+Network Switch,LAB-C,None,None,29.6,70.3,51.4,100.0,1,0,43,0.7,0,
+Laptop,LAB-B,None,None,46.6,75.5,89.0,100.0,2,0,87,1.0,1,
+Desktop PC,LAB-A,Hardware,Critical,46.1,69.4,46.9,100.0,2,1,17,9.8,1,11.9
+Desktop PC,LAB-C,Hardware,High,49.0,49.5,40.3,100.0,2,1,51,3.1,1,6.2
+Network Switch,LAB-B,None,None,48.0,54.0,53.8,96.9,0,0,61,,0,
+Desktop PC,LAB-A,None,None,49.1,64.1,75.9,95.3,3,0,59,2.3,0,
+Network Switch,LAB-A,Software,Medium,15.8,49.3,34.6,100.0,3,2,32,1.3,1,4.2
+Desktop PC,LAB-C,Hardware,Medium,79.1,61.4,69.1,98.5,3,1,23,1.5,1,15.9
+Projector,LAB-B,None,None,19.2,26.7,60.0,90.3,1,0,99,9.1,0,
+Network Router,LAB-C,Network,Critical,39.0,59.5,55.5,99.3,3,1,78,3.2,1,14.8
+Projector,LAB-C,Hardware,High,18.7,21.3,66.2,99.5,1,1,21,6.0,1,11.4
+Desktop PC,LAB-B,Thermal,Low,19.8,56.7,55.3,95.5,1,1,6,0.5,0,2.2
+Network Router,LAB-B,Software,Medium,26.2,62.8,36.7,99.7,1,1,4,2.0,1,5.3
+Desktop PC,LAB-B,None,None,25.3,76.3,84.7,95.0,2,0,5,8.3,0,
+Desktop PC,LAB-A,Network,Low,56.8,40.5,66.6,93.6,2,1,48,2.1,0,2.9
+Laptop,LAB-B,None,None,55.6,37.5,49.1,94.4,3,0,3,1.4,0,
+Network Switch,LAB-C,None,None,47.3,50.0,53.5,98.7,1,0,23,4.0,0,
+Projector,LAB-B,None,None,19.1,31.5,52.8,97.3,2,0,77,0.9,0,
+Network Router,LAB-C,None,None,58.0,50.7,59.7,100.0,1,0,19,0.7,0,
+Desktop PC,LAB-B,None,None,27.0,25.9,56.2,96.1,2,0,79,7.5,0,
+Desktop PC,LAB-B,None,None,86.1,55.7,40.8,94.0,2,0,75,1.7,0,
+Network Router,LAB-B,Network,Medium,51.3,53.1,48.4,100.0,2,1,16,4.5,1,8.0
+Desktop PC,LAB-B,Software,Medium,34.3,54.1,51.8,100.0,0,1,72,,1,4.1
+Desktop PC,LAB-B,None,None,58.0,50.6,52.9,96.7,1,0,76,9.3,0,
+Desktop PC,LAB-A,None,None,12.5,60.2,78.5,94.9,0,0,28,,0,
+Desktop PC,LAB-B,Software,Low,28.0,37.6,62.1,99.6,1,1,13,3.1,1,0.6
+Desktop PC,LAB-A,None,None,41.5,36.6,53.3,92.5,3,0,41,4.4,0,
+Desktop PC,LAB-A,Thermal,Medium,48.2,72.4,34.5,92.6,2,1,140,0.7,1,3.3
+Desktop PC,LAB-B,None,None,79.7,42.8,67.9,97.5,1,0,56,1.6,0,
+Desktop PC,LAB-B,Other,Medium,41.4,63.8,39.6,98.5,2,1,10,8.2,1,2.7
+Projector,LAB-C,None,None,16.9,16.8,70.4,95.4,2,0,63,2.4,0,
+Desktop PC,LAB-B,Software,High,41.5,30.8,74.3,100.0,2,1,31,1.1,1,4.0
+Desktop PC,LAB-B,Network,Medium,66.2,48.9,28.0,100.0,0,1,49,,0,4.3
+Laptop,LAB-B,Hardware,High,43.7,40.0,57.8,100.0,1,1,73,4.3,0,7.2
+Desktop PC,LAB-B,Hardware,Low,44.5,80.6,67.2,94.2,1,1,40,6.8,0,5.7
+Projector,LAB-A,None,None,14.6,39.6,35.0,95.9,1,0,93,2.1,0,
+Network Router,LAB-A,Power,Medium,13.5,54.3,45.0,98.7,1,1,70,4.3,1,9.3
+Desktop PC,LAB-A,None,None,32.9,33.1,84.1,100.0,0,0,53,,0,
+Desktop PC,LAB-B,Hardware,Medium,19.4,86.6,46.4,98.5,0,1,9,,0,5.2
+Network Switch,LAB-A,None,None,34.1,52.1,57.8,99.4,1,0,99,5.4,0,
+Projector,LAB-A,Power,Medium,16.2,17.0,50.7,89.9,1,1,151,2.7,1,10.3
+Desktop PC,LAB-A,Power,High,45.3,31.1,48.3,100.0,0,2,8,,1,12.3
+Laptop,LAB-C,None,None,71.4,54.4,50.8,100.0,4,0,37,2.4,0,
+Desktop PC,LAB-A,None,None,56.5,48.4,32.0,99.4,2,0,16,9.1,0,
+Projector,LAB-B,None,None,26.6,23.7,69.7,95.0,3,0,77,1.1,0,
+Desktop PC,LAB-A,Hardware,Critical,41.0,10.0,48.9,100.0,0,1,70,,1,10.5
+Projector,LAB-B,None,None,14.9,30.5,52.9,97.9,2,0,8,3.3,0,
+Laptop,LAB-A,Thermal,Low,40.2,36.2,70.7,100.0,0,1,115,,1,1.9
+Laptop,LAB-A,Power,Low,31.7,65.0,59.5,100.0,1,1,11,2.8,1,3.4
+Desktop PC,LAB-B,Software,Low,7.7,75.1,44.0,96.7,1,1,88,2.8,0,0.7
+Desktop PC,LAB-A,Hardware,Low,100.0,61.0,46.6,90.3,2,1,34,5.2,1,3.6
+Desktop PC,LAB-A,None,None,75.6,28.1,38.0,96.8,1,0,22,4.5,0,
+Desktop PC,LAB-A,Hardware,Medium,76.2,70.5,49.8,99.1,0,1,9,,1,5.3
+Desktop PC,LAB-A,Software,Medium,31.8,57.8,53.0,100.0,2,2,10,3.7,1,3.9
+Network Router,LAB-A,Thermal,Low,49.5,65.9,44.4,100.0,0,1,60,,0,4.1
+Desktop PC,LAB-A,None,None,43.0,33.4,46.4,98.3,2,0,44,0.7,0,
+Desktop PC,LAB-C,Network,Medium,65.0,51.3,35.1,98.2,2,1,7,1.5,1,3.0
+Projector,LAB-B,None,None,20.9,31.9,79.7,100.0,0,0,7,,0,
+Network Switch,LAB-B,Other,Critical,26.1,52.6,37.6,100.0,2,2,4,2.5,1,13.7
+Projector,LAB-A,Hardware,Critical,31.6,26.8,61.1,100.0,1,1,75,3.2,1,11.8
+Projector,LAB-C,Hardware,High,24.0,34.4,45.9,99.2,1,1,68,8.2,1,9.7
+Desktop PC,LAB-A,Hardware,Critical,24.6,32.3,47.1,95.9,0,1,3,,0,14.9
+Desktop PC,LAB-A,None,None,40.1,26.2,65.4,100.0,4,0,45,3.2,0,
+Network Router,LAB-B,Hardware,Medium,5.8,71.7,39.9,100.0,2,1,5,5.1,0,4.6
+Laptop,LAB-A,Hardware,Medium,43.5,55.6,49.4,100.0,3,1,129,2.9,1,5.4
+Desktop PC,LAB-A,None,None,17.7,67.2,67.4,100.0,3,0,131,4.8,0,
+Network Switch,LAB-B,Thermal,Low,69.9,53.7,57.6,99.0,2,1,66,3.0,0,3.7
+Desktop PC,LAB-C,None,None,72.1,54.8,46.6,100.0,2,0,143,1.3,0,
+Desktop PC,LAB-B,Hardware,High,34.2,26.7,44.8,100.0,0,2,92,,1,7.8
+Desktop PC,LAB-B,None,None,75.6,57.2,70.5,93.2,2,0,97,4.4,0,
+Laptop,LAB-C,Hardware,High,35.2,49.2,50.4,98.3,1,1,46,4.1,0,10.4
+Laptop,LAB-A,None,None,60.2,46.1,53.9,97.8,1,0,20,0.9,0,
+Desktop PC,LAB-A,None,None,24.6,52.7,50.0,97.4,3,0,14,2.9,0,
+Network Switch,LAB-A,None,None,35.5,60.9,43.7,100.0,0,0,22,,0,
+Desktop PC,LAB-B,None,None,19.3,40.6,90.9,94.4,3,0,54,2.9,1,
+Desktop PC,LAB-B,Hardware,Medium,15.2,69.7,28.0,97.2,2,1,10,1.9,1,4.3
+Network Switch,LAB-C,None,None,67.2,41.5,30.0,97.0,1,0,16,1.2,0,
+Projector,LAB-B,Hardware,Low,27.2,41.2,56.8,99.2,2,1,35,3.5,1,4.3
+Network Switch,LAB-B,Software,Medium,55.9,81.4,45.5,95.7,2,1,15,7.7,0,3.2
+Network Switch,LAB-A,Hardware,Medium,22.7,54.9,45.4,98.9,2,1,49,4.7,0,8.4
+Laptop,LAB-C,Power,High,69.6,80.5,49.6,100.0,0,2,141,,1,8.0
+Laptop,LAB-C,None,None,52.9,56.3,64.7,98.3,1,0,76,0.8,0,
+Desktop PC,LAB-C,None,None,90.3,26.2,44.8,97.6,0,0,60,,0,
+Desktop PC,LAB-A,None,None,54.7,80.4,51.7,93.0,1,0,48,7.3,0,
+Desktop PC,LAB-B,None,None,63.5,70.1,28.0,98.0,3,0,37,6.7,0,
+Desktop PC,LAB-A,Other,Medium,10.0,41.7,39.4,100.0,1,1,11,2.0,1,3.9
+Network Router,LAB-A,None,None,36.8,44.6,56.8,97.0,3,0,124,0.9,0,
+Desktop PC,LAB-A,Hardware,Medium,52.3,38.7,46.9,99.8,0,3,16,,1,12.5
+Desktop PC,LAB-B,None,None,56.5,81.7,50.8,99.1,1,0,5,2.1,0,
+Desktop PC,LAB-B,Software,High,35.4,58.6,58.2,97.7,1,1,76,2.2,1,5.0
+Laptop,LAB-A,None,None,5.3,61.6,57.1,95.6,4,0,11,0.9,0,
+Desktop PC,LAB-A,None,None,16.7,84.5,58.9,97.2,4,0,26,3.5,0,
+Network Switch,LAB-B,Other,Medium,17.9,50.1,61.0,99.4,1,1,2,1.7,0,6.2
+Desktop PC,LAB-A,None,None,32.9,65.2,40.6,100.0,2,0,8,1.1,0,
+Desktop PC,LAB-A,Hardware,Critical,74.8,45.7,43.2,88.8,2,1,10,2.5,1,17.8
+Laptop,LAB-B,Power,Medium,12.4,28.2,53.9,96.9,1,1,3,7.5,0,7.0
+Network Switch,LAB-C,None,None,14.8,56.6,53.1,100.0,1,0,59,5.3,0,
+Desktop PC,LAB-A,Other,Low,5.0,52.4,32.6,100.0,2,1,100,4.0,0,1.7
+Laptop,LAB-A,None,None,62.3,37.0,41.3,96.4,1,0,26,2.0,0,
+Laptop,LAB-A,Hardware,High,5.0,61.7,48.2,100.0,2,1,114,1.0,1,9.7
+Desktop PC,LAB-C,None,None,20.8,42.6,30.9,94.5,0,0,13,,0,
+Network Switch,LAB-B,Hardware,Medium,17.3,72.0,41.0,99.4,2,1,22,1.3,0,4.6
+Network Router,LAB-B,None,None,29.3,44.8,46.3,100.0,0,0,9,,0,
+Laptop,LAB-A,None,None,18.4,71.2,40.1,96.3,0,0,53,,0,
+Network Switch,LAB-B,None,None,43.0,52.0,48.4,98.7,1,0,30,5.1,0,
+Network Switch,LAB-A,None,None,36.9,31.4,30.0,100.0,1,0,52,1.6,0,
+Network Router,LAB-B,None,None,50.6,49.1,45.6,99.6,2,0,79,3.3,0,
+Network Switch,LAB-C,Software,Low,45.4,35.7,39.1,98.7,1,1,43,4.0,0,1.6
+Laptop,LAB-B,Other,Medium,60.5,100.0,48.8,93.1,2,3,54,0.8,1,5.6
+Laptop,LAB-C,None,None,53.8,81.4,53.5,94.8,2,0,151,3.0,0,
+Laptop,LAB-B,None,None,66.1,68.3,37.6,99.3,2,0,20,3.8,0,
+Network Router,LAB-A,None,None,50.0,74.2,47.3,98.7,1,0,24,8.8,0,
+Desktop PC,LAB-C,None,None,72.0,30.8,58.1,93.2,2,0,70,3.3,0,
+Network Switch,LAB-A,None,None,51.0,56.9,60.7,99.9,2,0,52,4.9,0,
+Network Switch,LAB-B,None,None,16.7,77.1,63.5,100.0,3,0,11,2.1,0,
+Desktop PC,LAB-A,Network,Low,28.2,48.9,54.0,95.5,1,1,26,5.7,0,3.9
+Network Switch,LAB-A,Software,Medium,60.4,61.7,30.0,99.7,3,1,35,1.1,0,3.1
+Desktop PC,LAB-B,None,None,37.3,53.5,46.8,100.0,1,0,30,4.1,0,
+Desktop PC,LAB-A,None,None,69.6,60.7,47.2,97.9,2,0,11,3.4,0,
+Network Router,LAB-B,Power,Medium,35.3,50.4,53.8,99.9,1,1,142,6.3,0,4.7
+Desktop PC,LAB-B,None,None,78.9,80.1,42.4,100.0,0,0,79,,0,
+Network Switch,LAB-A,Hardware,Medium,20.7,68.4,42.8,97.7,2,1,36,4.0,0,4.9
+Network Switch,LAB-A,Software,High,39.2,27.9,30.5,98.9,2,1,63,2.6,0,7.2
+Desktop PC,LAB-B,Software,High,46.8,47.6,29.9,95.1,0,2,125,,1,6.5
+Desktop PC,LAB-A,None,None,53.6,66.6,51.8,100.0,3,0,8,5.7,0,
+Desktop PC,LAB-B,Network,Low,53.7,40.1,48.1,93.1,1,2,16,4.0,1,4.5
+Laptop,LAB-B,Hardware,Critical,42.6,77.2,61.6,100.0,2,1,43,1.4,1,14.5
+Projector,LAB-C,Software,Low,17.6,43.5,61.9,100.0,4,1,88,2.7,0,1.6
+Laptop,LAB-B,Thermal,Low,44.5,69.1,72.7,97.3,1,1,2,1.3,1,2.6
+Desktop PC,LAB-B,None,None,49.8,80.8,50.1,93.4,3,0,227,3.8,1,
+Laptop,LAB-B,None,None,92.1,45.6,54.2,100.0,3,0,33,4.1,0,
+Desktop PC,LAB-A,Thermal,Medium,31.6,34.8,55.6,91.7,2,1,24,8.0,1,6.2
+Network Router,LAB-A,Network,Medium,30.7,62.9,45.3,96.9,3,1,19,2.7,1,4.8
+Desktop PC,LAB-C,Hardware,Medium,80.1,57.1,72.0,97.1,1,1,11,2.4,1,7.0
+Network Router,LAB-B,Hardware,Low,21.8,63.2,45.8,97.4,4,2,86,0.9,0,5.4
+Desktop PC,LAB-C,None,None,77.3,42.6,28.0,100.0,2,0,171,2.6,0,
+Projector,LAB-C,None,None,16.0,23.9,36.8,100.0,2,0,29,2.4,0,
+Desktop PC,LAB-C,None,None,16.6,56.2,64.8,99.5,3,0,167,3.2,0,
+Laptop,LAB-C,None,None,43.7,21.0,40.7,98.7,0,0,95,,0,
+Projector,LAB-B,Power,Medium,13.7,32.0,75.9,100.0,1,1,36,2.4,1,4.9
+Desktop PC,LAB-A,None,None,18.0,98.9,62.7,98.0,2,0,62,2.4,0,
+Projector,LAB-B,Hardware,Critical,28.7,53.7,42.0,95.6,0,2,31,,1,13.3
+Laptop,LAB-A,Network,Medium,5.0,58.9,57.1,97.9,2,1,45,3.2,0,3.6
+Desktop PC,LAB-B,None,None,30.6,14.0,57.2,100.0,4,0,3,2.8,0,
+Desktop PC,LAB-B,None,None,32.0,63.8,30.0,99.6,2,0,66,2.4,0,
+Network Router,LAB-B,Hardware,Low,29.1,50.9,40.4,98.6,2,2,3,2.4,0,4.9
+Desktop PC,LAB-A,Thermal,High,53.4,28.8,46.4,97.9,0,1,93,,0,7.3
+Laptop,LAB-A,Network,Low,20.8,90.9,40.1,95.7,4,1,96,9.4,1,3.2
+Desktop PC,LAB-B,None,None,23.5,91.0,59.7,94.7,3,0,15,2.3,0,
+Laptop,LAB-A,None,None,69.3,59.0,55.6,96.8,0,0,22,,0,
+Desktop PC,LAB-C,None,None,28.5,61.8,44.4,100.0,1,0,36,2.6,0,
+Network Switch,LAB-A,None,None,16.0,78.4,46.9,99.6,4,0,50,0.7,0,
+Projector,LAB-A,Power,High,26.7,23.7,78.8,85.7,2,2,19,5.7,1,6.7
+Projector,LAB-A,Other,Critical,14.2,20.8,44.9,95.6,0,1,49,,1,11.5
+Network Router,LAB-B,None,None,40.8,68.4,50.4,98.2,2,0,19,0.5,0,
+Desktop PC,LAB-B,None,None,53.1,57.5,65.1,100.0,1,0,3,1.4,0,

@@ -1,0 +1,28 @@
+{
+  "status": "ready",
+  "trained_at": "2026-10-17T17:57:51.728188",
+  "random_seed": 42,
+  "models": {
+    "classifier": {
+      "name": "RandomForestClassifier",
+      "version": "1.0.0",
+      "file": "classifier_pipeline.joblib",
+      "accuracy": 0.8833,
+      "f1_score": 0.8462
+    },
+    "regressor": {
+      "name": "RandomForestRegressor",
+      "version": "1.0.0",
+      "file": "regressor_pipeline.joblib",
+      "r2_score": 0.7054,
+      "mae_hours": 1.39
+    }
+  },
+  "dataset": {
+    "source": "backend/data/labpulse_ml_training.csv",
+    "type": "Synthetic Demonstration Data",
+    "total_samples": 1200,
+    "train_samples": 960,
+    "test_samples": 240
+  }
+}

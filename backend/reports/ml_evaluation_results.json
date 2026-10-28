@@ -1,0 +1,73 @@
+{
+  "report_title": "LabPulse Step 6 \u2014 Machine Learning Model Evaluation Report",
+  "evaluation_timestamp": "2026-10-17T17:57:51.728188",
+  "random_seed": 42,
+  "dataset_source": "backend/data/labpulse_ml_training.csv (Synthetic demonstration dataset)",
+  "features": {
+    "numerical": [
+      "cpu_usage",
+      "ram_usage",
+      "temperature",
+      "uptime",
+      "previous_fault_count",
+      "unresolved_fault_count",
+      "days_since_last_maintenance",
+      "avg_historical_repair_hours"
+    ],
+    "categorical": [
+      "equipment_type",
+      "lab_id",
+      "fault_category",
+      "fault_severity"
+    ],
+    "total_count": 12
+  },
+  "classification": {
+    "model_name": "RandomForestClassifier",
+    "algorithm": "Random Forest (100 estimators, max_depth=8)",
+    "target": "repeat_failure_within_7_days",
+    "accuracy": 0.8833,
+    "precision": 0.7938,
+    "recall": 0.9059,
+    "f1_score": 0.8462,
+    "confusion_matrix": {
+      "matrix": [
+        [
+          135,
+          20
+        ],
+        [
+          8,
+          77
+        ]
+      ],
+      "true_negatives": 135,
+      "false_positives": 20,
+      "false_negatives": 8,
+      "true_positives": 77
+    },
+    "support": {
+      "negative_class_0": 155,
+      "positive_class_1": 85,
+      "total_test": 240
+    },
+    "training_records": 960,
+    "test_records": 240,
+    "probability_thresholds": {
+      "low_risk": "< 35%",
+      "moderate_risk": "35% - 65%",
+      "elevated_risk": "> 65%"
+    }
+  },
+  "regression": {
+    "model_name": "RandomForestRegressor",
+    "algorithm": "Random Forest Regressor (100 estimators, max_depth=8)",
+    "target": "repair_duration_hours",
+    "r2_score": 0.7054,
+    "mae_hours": 1.39,
+    "training_records": 438,
+    "test_records": 110,
+    "active_fault_requirement": "Repair duration is ONLY estimated when equipment has an active fault with a known severity and category. Equipment without active faults receives null ('Not applicable \u2014 no active fault')."
+  },
+  "transparency_statement": "These models are trained on reproducible synthetic demonstration data (1,200 scenarios) designed for the CSE494 Intelligent NoSQL Databases coursework. The evaluation scores reflect performance on held-out synthetic test splits. For production laboratory use, longitudinal empirical sensor data would be collected over multiple semesters."
+}

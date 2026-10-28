@@ -1,0 +1,42 @@
+{
+  "dataset_name": "LabPulse College Laboratory Equipment Synthetic ML Dataset",
+  "dataset_type": "Synthetic demonstration data (Reproducible)",
+  "purpose": "CSE494 Step 6: ML Failure Prediction and Repair Duration Estimation",
+  "transparency_note": "This synthetic dataset was generated locally using a fixed random seed (42) to demonstrate statistical machine learning techniques. It simulates realistic college laboratory operating telemetry, stress factors, and incident records. It is NEVER inserted into the real MongoDB equipment or faults collections.",
+  "generated_at": "2026-10-17T17:55:17.743513",
+  "random_seed": 42,
+  "total_records": 1200,
+  "classification_target": "repeat_failure_within_7_days",
+  "classification_distribution": {
+    "negative_class_0 (no repeat failure)": 773,
+    "positive_class_1 (repeat failure likely)": 427,
+    "positive_rate_percent": 35.58
+  },
+  "regression_target": "repair_duration_hours",
+  "regression_distribution": {
+    "active_fault_samples (repair time present)": 548,
+    "no_active_fault_samples (NaN)": 652,
+    "mean_repair_hours": 6.24,
+    "median_repair_hours": 5.5,
+    "min_repair_hours": 0.5,
+    "max_repair_hours": 19.9
+  },
+  "features": {
+    "numerical": [
+      "cpu_usage",
+      "ram_usage",
+      "temperature",
+      "uptime",
+      "previous_fault_count",
+      "unresolved_fault_count",
+      "days_since_last_maintenance",
+      "avg_historical_repair_hours"
+    ],
+    "categorical": [
+      "equipment_type",
+      "lab_id",
+      "fault_category",
+      "fault_severity"
+    ]
+  }
+}

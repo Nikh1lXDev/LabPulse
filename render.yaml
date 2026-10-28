@@ -1,0 +1,15 @@
+services:
+  - type: web
+    name: labpulse
+    runtime: python
+    buildCommand: npm install && npm run build && pip install -r backend/requirements.txt
+    startCommand: gunicorn backend.app:app
+    envVars:
+      - key: PYTHON_VERSION
+        value: 3.11.0
+      - key: MONGODB_DB_NAME
+        value: labpulse_db
+      - key: FLASK_ENV
+        value: production
+      - key: MONGODB_URI
+        sync: false  # Paste your MongoDB Atlas URI in the Render Dashboard
